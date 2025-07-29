@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich lebe
+du lebst
+er/sie/es lebt
+wir leben
+ihr lebt
+sie/Sie leben

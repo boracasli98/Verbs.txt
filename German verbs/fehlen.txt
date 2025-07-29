@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich fehle
+du fehlst
+er/sie/es fehlt
+wir fehlen
+ihr fehlt
+sie/Sie fehlen

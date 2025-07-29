@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich chatte
+du chattest
+er/sie/es chattet
+wir chatten
+ihr chattet
+sie/Sie chatten

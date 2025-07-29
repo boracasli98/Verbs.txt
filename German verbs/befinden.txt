@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich befinde
+du befindest
+er/sie/es befindet
+wir befinden
+ihr befindet
+sie/Sie befinden

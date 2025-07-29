@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich klingle
+du klingelst
+er/sie/es klingelt
+wir klingeln
+ihr klingelt
+sie/Sie klingeln

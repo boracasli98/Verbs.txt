@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich fahre
+du fährst
+er/sie/es fährt
+wir fahren
+ihr fahrt
+sie/Sie fahren

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich wende
+du wendest
+er/sie/es wendet
+wir wenden
+ihr wendet
+sie/Sie wenden

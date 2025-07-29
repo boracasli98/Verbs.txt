@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich verordne
+du verordnest
+er/sie/es verordnet
+wir verordnen
+ihr verordnet
+sie/Sie verordnen

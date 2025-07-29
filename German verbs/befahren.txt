@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich befahre
+du befährst
+er/sie/es befährt
+wir befahren
+ihr befahrt
+sie/Sie befahren

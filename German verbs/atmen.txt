@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich atme
+du atmest
+er/sie/es atmet
+wir atmen
+ihr atmet
+sie/Sie atmen

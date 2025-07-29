@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich fliehe
+du fliehst
+er/sie/es flieht
+wir fliehen
+ihr flieht
+sie/Sie fliehen

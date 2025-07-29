@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich zwitschere
+du zwitscherst
+er/sie/es zwitschert
+wir zwitschern
+ihr zwitschert
+sie/Sie zwitschern

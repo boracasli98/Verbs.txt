@@ -1,0 +1,23 @@
+==PRESENT TENSE==
+ich klicke an
+du klickst an
+er/sie/es klickt an
+wir klicken an
+ihr klickt an
+sie/Sie klicken an
+
+==PRESENT PERFECT==
+ich habe angeklickt
+du hast angeklickt
+er/sie/es hat angeklickt
+wir haben angeklickt
+ihr habt angeklickt
+sie/Sie haben angeklickt
+
+==PAST PERFECT==
+ich hatte angeklickt
+du hattest angeklickt
+er/sie/es hatte angeklickt
+wir hatten angeklickt
+ihr hattet angeklickt
+sie/Sie hatten angeklickt

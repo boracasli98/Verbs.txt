@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich heule
+du heulst
+er/sie/es heult
+wir heulen
+ihr heult
+sie/Sie heulen

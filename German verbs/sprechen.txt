@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich spreche
+du sprichst
+er/sie/es spricht
+wir sprechen
+ihr sprecht
+sie/Sie sprechen

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich speise
+du speist
+er/sie/es speist
+wir speisen
+ihr speist
+sie/Sie speisen

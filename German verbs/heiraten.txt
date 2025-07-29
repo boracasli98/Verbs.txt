@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich heirate
+du heiratest
+er/sie/es heiratet
+wir heiraten
+ihr heiratet
+sie/Sie heiraten

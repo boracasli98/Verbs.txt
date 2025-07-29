@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich reise ein
+du reist ein
+er/sie/es reist ein
+wir reisen ein
+ihr reist ein
+sie/Sie reisen ein
