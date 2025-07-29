@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I get
+you get
+he/she/it gets
+we get
+you get
+they get
+
+==PRESENT CONTINUOUS TENSE==
+I am getting
+you are getting
+he/she/it is getting
+we are getting
+you are getting
+they are getting
+
+==PAST TENSE==
+I got
+you got
+he/she/it got
+we got
+you got
+they got
+
+==PRESENT PERFECT==
+I have got
+you have got
+he/she/it has got
+we have got
+you have got
+they have got
+
+==PAST PERFECT==
+I had got
+you had got
+he/she/it had got
+we had got
+you had got
+they had got

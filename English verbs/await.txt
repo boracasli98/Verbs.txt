@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I await
+you await
+he/she/it awaits
+we await
+you await
+they await
+
+==PRESENT CONTINUOUS TENSE==
+I am awaiting
+you are awaiting
+he/she/it is awaiting
+we are awaiting
+you are awaiting
+they are awaiting
+
+==PAST TENSE==
+I awaited
+you awaited
+he/she/it awaited
+we awaited
+you awaited
+they awaited
+
+==PRESENT PERFECT==
+I have awaited
+you have awaited
+he/she/it has awaited
+we have awaited
+you have awaited
+they have awaited
+
+==PAST PERFECT==
+I had awaited
+you had awaited
+he/she/it had awaited
+we had awaited
+you had awaited
+they had awaited

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I pass
+you pass
+he/she/it passes
+we pass
+you pass
+they pass
+
+==PRESENT CONTINUOUS TENSE==
+I am passing
+you are passing
+he/she/it is passing
+we are passing
+you are passing
+they are passing
+
+==PAST TENSE==
+I passed
+you passed
+he/she/it passed
+we passed
+you passed
+they passed
+
+==PRESENT PERFECT==
+I have passed
+you have passed
+he/she/it has passed
+we have passed
+you have passed
+they have passed
+
+==PAST PERFECT==
+I had passed
+you had passed
+he/she/it had passed
+we had passed
+you had passed
+they had passed

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I am sad
+you are sad
+he/she/it is sad
+we are sad
+you are sad
+they are sad
+
+==PRESENT CONTINUOUS TENSE==
+I am being sad
+you are being sad
+he/she/it is being sad
+we are being sad
+you are being sad
+they are being sad
+
+==PAST TENSE==
+I was sad
+you were sad
+he/she/it was sad
+we were sad
+you were sad
+they were sad
+
+==PRESENT PERFECT==
+I have been sad
+you have been sad
+he/she/it has been sad
+we have been sad
+you have been sad
+they have been sad
+
+==PAST PERFECT==
+I had been sad
+you had been sad
+he/she/it had been sad
+we had been sad
+you had been sad
+they had been sad

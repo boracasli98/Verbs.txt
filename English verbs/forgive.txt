@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I forgive
+you forgive
+he/she/it forgives
+we forgive
+you forgive
+they forgive
+
+==PAST TENSE==
+I forgave
+you forgave
+he/she/it forgave
+we forgave
+you forgave
+they forgave

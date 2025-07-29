@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I move
+you move
+he/she/it moves
+we move
+you move
+they move
+
+==PAST TENSE==
+I moved
+you moved
+he/she/it moved
+we moved
+you moved
+they moved

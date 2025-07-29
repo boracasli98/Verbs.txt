@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I win
+you win
+he/she/it wins
+we win
+you win
+they win
+
+==PRESENT CONTINUOUS TENSE==
+I am winning
+you are winning
+he/she/it is winning
+we are winning
+you are winning
+they are winning
+
+==PAST TENSE==
+I won
+you won
+he/she/it won
+we won
+you won
+they won
+
+==PRESENT PERFECT==
+I have won
+you have won
+he/she/it has won
+we have won
+you have won
+they have won
+
+==PAST PERFECT==
+I had won
+you had won
+he/she/it had won
+we had won
+you had won
+they had won

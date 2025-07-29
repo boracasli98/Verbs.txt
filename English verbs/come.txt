@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I come
+you come
+he/she/it comes
+we come
+you come
+they come
+
+==PRESENT CONTINUOUS TENSE==
+I am coming
+you are coming
+he/she/it is coming
+we are coming
+you are coming
+they are coming
+
+==PAST TENSE==
+I came
+you came
+he/she/it came
+we came
+you came
+they came
+
+==PRESENT PERFECT==
+I have came
+you have came
+he/she/it has came
+we have came
+you have came
+they have came
+
+==PAST PERFECT==
+I had came
+you had came
+he/she/it had came
+we had came
+you had came
+they had came

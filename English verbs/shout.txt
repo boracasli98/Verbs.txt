@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I shout
+you shout
+he/she/it shouts
+we shout
+you shout
+they shout
+
+==PRESENT CONTINUOUS TENSE==
+I am shouting
+you are shouting
+he/she/it is shouting
+we are shouting
+you are shouting
+they are shouting
+
+==PAST TENSE==
+I shouted
+you shouted
+he/she/it shouted
+we shouted
+you shouted
+they shouted
+
+==PRESENT PERFECT==
+I have shouted
+you have shouted
+he/she/it has shouted
+we have shouted
+you have shouted
+they have shouted
+
+==PAST PERFECT==
+I had shouted
+you had shouted
+he/she/it had shouted
+we had shouted
+you had shouted
+they had shouted

@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I place
+you place
+he/she/it places
+we place
+you place
+they place
+
+==PAST TENSE==
+I placed
+you placed
+he/she/it placed
+we placed
+you placed
+they placed

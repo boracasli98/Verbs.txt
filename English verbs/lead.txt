@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I lead
+you lead
+he/she/it leads
+we lead
+you lead
+they lead
+
+==PRESENT CONTINUOUS TENSE==
+I am leading
+you are leading
+he/she/it is leading
+we are leading
+you are leading
+they are leading
+
+==PAST TENSE==
+I led
+you led
+he/she/it led
+we led
+you led
+they led
+
+==PRESENT PERFECT==
+I have led
+you have led
+he/she/it has led
+we have led
+you have led
+they have led
+
+==PAST PERFECT==
+I had led
+you had led
+he/she/it had led
+we had led
+you had led
+they had led

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I discover
+you discover
+he/she/it discovers
+we discover
+you discover
+they discover
+
+==PRESENT CONTINUOUS TENSE==
+I am discovering
+you are discovering
+he/she/it is discovering
+we are discovering
+you are discovering
+they are discovering
+
+==PAST TENSE==
+I discovered
+you discovered
+he/she/it discovered
+we discovered
+you discovered
+they discovered
+
+==PRESENT PERFECT==
+I have discovered
+you have discovered
+he/she/it has discovered
+we have discovered
+you have discovered
+they have discovered
+
+==PAST PERFECT==
+I had discovered
+you had discovered
+he/she/it had discovered
+we had discovered
+you had discovered
+they had discovered

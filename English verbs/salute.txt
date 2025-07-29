@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I salute
+you salute
+he/she/it salutes
+we salute
+you salute
+they salute
+
+==PAST TENSE==
+I saluted
+you saluted
+he/she/it saluted
+we saluted
+you saluted
+they saluted

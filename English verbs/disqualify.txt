@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I disqualify
+you disqualify
+he/she/it disqualifies
+we disqualify
+you disqualify
+they disqualify
+
+==PRESENT CONTINUOUS TENSE==
+I am disqualifying
+you are disqualifying
+he/she/it is disqualifying
+we are disqualifying
+you are disqualifying
+they are disqualifying
+
+==PAST TENSE==
+I disqualified
+you disqualified
+he/she/it disqualified
+we disqualified
+you disqualified
+they disqualified
+
+==PRESENT PERFECT==
+I have disqualified
+you have disqualified
+he/she/it has disqualified
+we have disqualified
+you have disqualified
+they have disqualified
+
+==PAST PERFECT==
+I had disqualified
+you had disqualified
+he/she/it had disqualified
+we had disqualified
+you had disqualified
+they had disqualified

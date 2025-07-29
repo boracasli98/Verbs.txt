@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I invest
+you invest
+he/she/it invests
+we invest
+you invest
+they invest
+
+==PAST TENSE==
+I invested
+you invested
+he/she/it invested
+we invested
+you invested
+they invested

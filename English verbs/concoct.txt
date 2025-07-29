@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I concoct
+you concoct
+he/she/it concocts
+we concoct
+you concoct
+they concoct
+
+==PRESENT CONTINUOUS TENSE==
+I am concocting
+you are concocting
+he/she/it is concocting
+we are concocting
+you are concocting
+they are concocting
+
+==PAST TENSE==
+I concocted
+you concocted
+he/she/it concocted
+we concocted
+you concocted
+they concocted
+
+==PRESENT PERFECT==
+I have concocted
+you have concocted
+he/she/it has concocted
+we have concocted
+you have concocted
+they have concocted
+
+==PAST PERFECT==
+I had concocted
+you had concocted
+he/she/it had concocted
+we had concocted
+you had concocted
+they had concocted

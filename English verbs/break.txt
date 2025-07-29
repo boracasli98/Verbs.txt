@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I break
+you break
+he/she/it breaks
+we break
+you break
+they break
+
+==PRESENT CONTINUOUS TENSE==
+I am breaking
+you are breaking
+he/she/it is breaking
+we are breaking
+you are breaking
+they are breaking
+
+==PAST TENSE==
+I broke
+you broke
+he/she/it broke
+we broke
+you broke
+they broke
+
+==PRESENT PERFECT==
+I have broken
+you have broken
+he/she/it has broken
+we have broken
+you have broken
+they have broken
+
+==PAST PERFECT==
+I had broken
+you had broken
+he/she/it had broken
+we had broken
+you had broken
+they had broken

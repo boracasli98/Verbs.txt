@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I have
+you have
+he/she/it has
+we have
+you have
+they have
+
+==PAST TENSE==
+I had
+you had
+he/she/it had
+we had
+you had
+they had

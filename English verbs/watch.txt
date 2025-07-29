@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I watch
+you watch
+he/she/it watches
+we watch
+you watch
+they watch
+
+==PRESENT CONTINUOUS TENSE==
+I am watching
+you are watching
+he/she/it is watching
+we are watching
+you are watching
+they are watching
+
+==PAST TENSE==
+I watched
+you watched
+he/she/it watched
+we watched
+you watched
+they watched
+
+==PRESENT PERFECT==
+I have watched
+you have watched
+he/she/it has watched
+we have watched
+you have watched
+they have watched
+
+==PAST PERFECT==
+I had watched
+you had watched
+he/she/it had watched
+we had watched
+you had watched
+they had watched

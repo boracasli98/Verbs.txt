@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I plough
+you plough
+he/she/it ploughs
+we plough
+you plough
+they plough
+
+==PRESENT CONTINUOUS TENSE==
+I am ploughing
+you are ploughing
+he/she/it is ploughing
+we are ploughing
+you are ploughing
+they are ploughing
+
+==PAST TENSE==
+I ploughed
+you ploughed
+he/she/it ploughed
+we ploughed
+you ploughed
+they ploughed
+
+==PRESENT PERFECT==
+I have ploughed
+you have ploughed
+he/she/it has ploughed
+we have ploughed
+you have ploughed
+they have ploughed
+
+==PAST PERFECT==
+I had ploughed
+you had ploughed
+he/she/it had ploughed
+we had ploughed
+you had ploughed
+they had ploughed

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I carry
+you carry
+he/she/it carries
+we carry
+you carry
+they carry
+
+==PRESENT CONTINUOUS TENSE==
+I am carrying
+you are carrying
+he/she/it is carrying
+we are carrying
+you are carrying
+they are carrying
+
+==PAST TENSE==
+I carried
+you carried
+he/she/it carried
+we carried
+you carried
+they carried
+
+==PRESENT PERFECT==
+I have carried
+you have carried
+he/she/it has carried
+we have carried
+you have carried
+they have carried
+
+==PAST PERFECT==
+I had carried
+you had carried
+he/she/it had carried
+we had carried
+you had carried
+they had carried

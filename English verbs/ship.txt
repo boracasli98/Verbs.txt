@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I ship
+you ship
+he/she/it ships
+we ship
+you ship
+they ship
+
+==PRESENT CONTINUOUS TENSE==
+I am shipping
+you are shipping
+he/she/it is shipping
+we are shipping
+you are shipping
+they are shipping
+
+==PAST TENSE==
+I shipped
+you shipped
+he/she/it shipped
+we shipped
+you shipped
+they shipped
+
+==PRESENT PERFECT==
+I have shipped
+you have shipped
+he/she/it has shipped
+we have shipped
+you have shipped
+they have shipped
+
+==PAST PERFECT==
+I had shipped
+you had shipped
+he/she/it had shipped
+we had shipped
+you had shipped
+they had shipped

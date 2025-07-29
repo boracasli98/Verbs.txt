@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I burn
+you burn
+he/she/it burns
+we burn
+you burn
+they burn
+
+==PRESENT CONTINUOUS TENSE==
+I am burning
+you are burning
+he/she/it is burning
+we are burning
+you are burning
+they are burning
+
+==PAST TENSE==
+I burnt
+you burnt
+he/she/it burnt
+we burnt
+you burnt
+they burnt
+
+==PRESENT PERFECT==
+I have burnt
+you have burnt
+he/she/it has burnt
+we have burnt
+you have burnt
+they have burnt
+
+==PAST PERFECT==
+I had burnt
+you had burnt
+he/she/it had burnt
+we had burnt
+you had burnt
+they had burnt

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I cry
+you cry
+he/she/it cries
+we cry
+you cry
+they cry
+
+==PRESENT CONTINUOUS TENSE==
+I am crying
+you are crying
+he/she/it is crying
+we are crying
+you are crying
+they are crying
+
+==PAST TENSE==
+I cried
+you cried
+he/she/it cried
+we cried
+you cried
+they cried
+
+==PRESENT PERFECT==
+I have cried
+you have cried
+he/she/it has cried
+we have cried
+you have cried
+they have cried
+
+==PAST PERFECT==
+I had cried
+you had cried
+he/she/it had cried
+we had cried
+you had cried
+they had cried

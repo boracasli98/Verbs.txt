@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I start
+you start
+he/she/it starts
+we start
+you start
+they start
+
+==PRESENT CONTINUOUS TENSE==
+I am starting
+you are starting
+he/she/it is starting
+we are starting
+you are starting
+they are starting
+
+==PAST TENSE==
+I started
+you started
+he/she/it started
+we started
+you started
+they started
+
+==PRESENT PERFECT==
+I have started
+you have started
+he/she/it has started
+we have started
+you have started
+they have started
+
+==PAST PERFECT==
+I had started
+you had started
+he/she/it had started
+we had started
+you had started
+they had started

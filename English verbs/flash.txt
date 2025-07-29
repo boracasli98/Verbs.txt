@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I flash
+you flash
+he/she/it flashes
+we flash
+you flash
+they flash
+
+==PRESENT CONTINUOUS TENSE==
+I am flashing
+you are flashing
+he/she/it is flashing
+we are flashing
+you are flashing
+they are flashing
+
+==PAST TENSE==
+I flashed
+you flashed
+he/she/it flashed
+we flashed
+you flashed
+they flashed
+
+==PRESENT PERFECT==
+I have flashed
+you have flashed
+he/she/it has flashed
+we have flashed
+you have flashed
+they have flashed
+
+==PAST PERFECT==
+I had flashed
+you had flashed
+he/she/it had flashed
+we had flashed
+you had flashed
+they had flashed

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I found
+you found
+he/she/it founds
+we found
+you found
+they found
+
+==PRESENT CONTINUOUS TENSE==
+I am founding
+you are founding
+he/she/it is founding
+we are founding
+you are founding
+they are founding
+
+==PAST TENSE==
+I founded
+you founded
+he/she/it founded
+we founded
+you founded
+they founded
+
+==PRESENT PERFECT==
+I have founded
+you have founded
+he/she/it has founded
+we have founded
+you have founded
+they have founded
+
+==PAST PERFECT==
+I had founded
+you had founded
+he/she/it had founded
+we had founded
+you had founded
+they had founded

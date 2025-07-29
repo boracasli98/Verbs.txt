@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I wrap up
+you wrap up
+he/she/it wraps up
+we wrap up
+you wrap up
+they wrap up
+
+==PRESENT CONTINUOUS TENSE==
+I am wrapping up
+you are wrapping up
+he/she/it is wrapping up
+we are wrapping up
+you are wrapping up
+they are wrapping up
+
+==PAST TENSE==
+I wrapped up
+you wrapped up
+he/she/it wrapped up
+we wrapped up
+you wrapped up
+they wrapped up
+
+==PRESENT PERFECT==
+I have wrapped up
+you have wrapped up
+he/she/it has wrapped up
+we have wrapped up
+you have wrapped up
+they have wrapped up
+
+==PAST PERFECT==
+I had wrapped up
+you had wrapped up
+he/she/it had wrapped up
+we had wrapped up
+you had wrapped up
+they had wrapped up

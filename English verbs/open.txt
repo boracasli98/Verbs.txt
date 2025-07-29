@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I open
+you open
+he/she/it opens
+we open
+you open
+they open
+
+==PRESENT CONTINUOUS TENSE==
+I am opening
+you are opening
+he/she/it is opening
+we are opening
+you are opening
+they are opening
+
+==PAST TENSE==
+I opened
+you opened
+he/she/it opened
+we opened
+you opened
+they opened
+
+==PRESENT PERFECT==
+I have opened
+you have opened
+he/she/it has opened
+we have opened
+you have opened
+they have opened
+
+==PAST PERFECT==
+I had opened
+you had opened
+he/she/it had opened
+we had opened
+you had opened
+they had opened

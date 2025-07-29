@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I blue
+you blue
+he/she/it blues
+we blue
+you blue
+they blue
+
+==PAST TENSE==
+I blued
+you blued
+he/she/it blued
+we blued
+you blued
+they blued

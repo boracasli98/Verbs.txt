@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I give
+you give
+he/she/it gives
+we give
+you give
+they give
+
+==PAST TENSE==
+I gave
+you gave
+he/she/it gave
+we gave
+you gave
+they gave

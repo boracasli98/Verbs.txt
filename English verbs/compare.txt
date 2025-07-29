@@ -1,39 +1,39 @@
 ==PRESENT TENSE==
-I emerge
-you emerge
-he/she/it emerges
-we emerge
-you emerge
-they emerge
+I compare
+you compare
+he/she/it compares
+we compare
+you compare
+they compare
 
 ==PRESENT CONTINUOUS TENSE==
-I am emerging
-you are emerging
-he/she/it is emerging
-we are emerging
-you are emerging
-they are emerging
+I am comparing
+you are comparing
+he/she/it is comparing
+we are comparing
+you are comparing
+they are comparing
 
 ==PAST TENSE==
-I emerged
-you emerged
-he/she/it emerged
-we emerged
-you emerged
-they emerged
+I compared
+you compared
+he/she/it compared
+we compared
+you compared
+they compared
 
 ==PRESENT PERFECT==
-I have emerged
-you have emerged
-he/she/it has emerged
-we have emerged
-you have emerged
-they have emerged
+I have compared
+you have compared
+he/she/it has compared
+we have compared
+you have compared
+they have compared
 
 ==PAST PERFECT==
-I had emerged
-you had emerged
-he/she/it had emerged
-we had emerged
-you had emerged
-they had emerged
+I had compared
+you had compared
+he/she/it had compared
+we had compared
+you had compared
+they had compared

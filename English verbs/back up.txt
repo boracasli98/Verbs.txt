@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I back up
+you back up
+he/she/it backs up
+we back up
+you back up
+they back up
+
+==PRESENT CONTINUOUS TENSE==
+I am backing up
+you are backing up
+he/she/it is backing up
+we are backing up
+you are backing up
+they are backing up
+
+==PAST TENSE==
+I backed up
+you backed up
+he/she/it backed up
+we backed up
+you backed up
+they backed up
+
+==PRESENT PERFECT==
+I have backed up
+you have backed up
+he/she/it has backed up
+we have backed up
+you have backed up
+they have backed up
+
+==PAST PERFECT==
+I had backed up
+you had backed up
+he/she/it had backed up
+we had backed up
+you had backed up
+they had backed up

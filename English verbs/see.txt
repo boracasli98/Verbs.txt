@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I see
+you see
+he/she/it sees
+we see
+you see
+they see
+
+==PRESENT CONTINUOUS TENSE==
+I am seeing
+you are seeing
+he/she/it is seeing
+we are seeing
+you are seeing
+they are seeing
+
+==PAST TENSE==
+I saw
+you saw
+he/she/it saw
+we saw
+you saw
+they saw
+
+==PRESENT PERFECT==
+I have seen
+you have seen
+he/she/it has seen
+we have seen
+you have seen
+they have seen
+
+==PAST PERFECT==
+I had seen
+you had seen
+he/she/it had seen
+we had seen
+you had seen
+they had seen

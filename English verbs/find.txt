@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I find
+you find
+he/she/it finds
+we find
+you find
+they find
+
+==PRESENT CONTINUOUS TENSE==
+I am finding
+you are finding
+he/she/it is finding
+we are finding
+you are finding
+they are finding
+
+==PAST TENSE==
+I found
+you found
+he/she/it found
+we found
+you found
+they found
+
+==PRESENT PERFECT==
+I have found
+you have found
+he/she/it has found
+we have found
+you have found
+they have found
+
+==PAST PERFECT==
+I had found
+you had found
+he/she/it had found
+we had found
+you had found
+they had found

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I rampage
+you rampage
+he/she/it rampages
+we rampage
+you rampage
+they rampage
+
+==PRESENT CONTINUOUS TENSE==
+I am rampaging
+you are rampaging
+he/she/it is rampaging
+we are rampaging
+you are rampaging
+they are rampaging
+
+==PAST TENSE==
+I rampaged
+you rampaged
+he/she/it rampaged
+we rampaged
+you rampaged
+they rampaged
+
+==PRESENT PERFECT==
+I have rampaged
+you have rampaged
+he/she/it has rampaged
+we have rampaged
+you have rampaged
+they have rampaged
+
+==PAST PERFECT==
+I had rampaged
+you had rampaged
+he/she/it had rampaged
+we had rampaged
+you had rampaged
+they had rampaged

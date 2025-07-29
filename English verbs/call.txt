@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I call
+you call
+he/she/it calls
+we call
+you call
+they call
+
+==PRESENT CONTINUOUS TENSE==
+I am calling
+you are calling
+he/she/it is calling
+we are calling
+you are calling
+they are calling
+
+==PAST TENSE==
+I called
+you called
+he/she/it called
+we called
+you called
+they called
+
+==PRESENT PERFECT==
+I have called
+you have called
+he/she/it has called
+we have called
+you have called
+they have called
+
+==PAST PERFECT==
+I had called
+you had called
+he/she/it had called
+we had called
+you had called
+they had called

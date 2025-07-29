@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I wait
+you wait
+he/she/it waits
+we wait
+you wait
+they wait
+
+==PRESENT CONTINUOUS TENSE==
+I am waiting
+you are waiting
+he/she/it is waiting
+we are waiting
+you are waiting
+they are waiting
+
+==PAST TENSE==
+I waited
+you waited
+he/she/it waited
+we waited
+you waited
+they waited
+
+==PRESENT PERFECT==
+I have waited
+you have waited
+he/she/it has waited
+we have waited
+you have waited
+they have waited
+
+==PAST PERFECT==
+I had waited
+you had waited
+he/she/it had waited
+we had waited
+you had waited
+they had waited

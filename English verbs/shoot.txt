@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I shoot
+you shoot
+he/she/it shoots
+we shoot
+you shoot
+they shoot
+
+==PRESENT CONTINUOUS TENSE==
+I am shooting
+you are shooting
+he/she/it is shooting
+we are shooting
+you are shooting
+they are shooting
+
+==PAST TENSE==
+I shot
+you shot
+he/she/it shot
+we shot
+you shot
+they shot
+
+==PRESENT PERFECT==
+I have shot
+you have shot
+he/she/it has shot
+we have shot
+you have shot
+they have shot
+
+==PAST PERFECT==
+I had shot
+you had shot
+he/she/it had shot
+we had shot
+you had shot
+they had shot

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I keep
+you keep
+he/she/it keeps
+we keep
+you keep
+they keep
+
+==PRESENT CONTINUOUS TENSE==
+I am keeping
+you are keeping
+he/she/it is keeping
+we are keeping
+you are keeping
+they are keeping
+
+==PAST TENSE==
+I kept
+you kept
+he/she/it kept
+we kept
+you kept
+they kept
+
+==PRESENT PERFECT==
+I have kept
+you have kept
+he/she/it has kept
+we have kept
+you have kept
+they have kept
+
+==PAST PERFECT==
+I had kept
+you had kept
+he/she/it had kept
+we had kept
+you had kept
+they had kept

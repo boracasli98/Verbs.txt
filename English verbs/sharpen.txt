@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I sharpen
+you sharpen
+he/she/it sharpens
+we sharpen
+you sharpen
+they sharpen
+
+==PRESENT CONTINUOUS TENSE==
+I am sharpening
+you are sharpening
+he/she/it is sharpening
+we are sharpening
+you are sharpening
+they are sharpening
+
+==PAST TENSE==
+I sharpened
+you sharpened
+he/she/it sharpened
+we sharpened
+you sharpened
+they sharpened
+
+==PRESENT PERFECT==
+I have sharpened
+you have sharpened
+he/she/it has sharpened
+we have sharpened
+you have sharpened
+they have sharpened
+
+==PAST PERFECT==
+I had sharpened
+you had sharpened
+he/she/it had sharpened
+we had sharpened
+you had sharpened
+they had sharpened

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I love
+you love
+he/she/it loves
+we love
+you love
+they love
+
+==PRESENT CONTINUOUS TENSE==
+I am loving
+you are loving
+he/she/it is loving
+we are loving
+you are loving
+they are loving
+
+==PAST TENSE==
+I loved
+you loved
+he/she/it loved
+we loved
+you loved
+they loved
+
+==PRESENT PERFECT==
+I have loved
+you have loved
+he/she/it has loved
+we have loved
+you have loved
+they have loved
+
+==PAST PERFECT==
+I had loved
+you had loved
+he/she/it had loved
+we had loved
+you had loved
+they had loved

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I dream
+you dream
+he/she/it dreams
+we dream
+you dream
+they dream
+
+==PRESENT CONTINUOUS TENSE==
+I am dreaming
+you are dreaming
+he/she/it is dreaming
+we are dreaming
+you are dreaming
+they are dreaming
+
+==PAST TENSE==
+I dreamt
+you dreamt
+he/she/it dreamt
+we dreamt
+you dreamt
+they dreamt
+
+==PRESENT PERFECT==
+I have dreamt
+you have dreamt
+he/she/it has dreamt
+we have dreamt
+you have dreamt
+they have dreamt
+
+==PAST PERFECT==
+I had dreamt
+you had dreamt
+he/she/it had dreamt
+we had dreamt
+you had dreamt
+they had dreamt

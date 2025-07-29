@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I hear
+you hear
+he/she/it hears
+we hear
+you hear
+they hear
+
+==PRESENT CONTINUOUS TENSE==
+I am hearing
+you are hearing
+he/she/it is hearing
+we are hearing
+you are hearing
+they are hearing
+
+==PAST TENSE==
+I heard
+you heard
+he/she/it heard
+we heard
+you heard
+they heard
+
+==PRESENT PERFECT==
+I have heard
+you have heard
+he/she/it has heard
+we have heard
+you have heard
+they have heard
+
+==PAST PERFECT==
+I had heard
+you had heard
+he/she/it had heard
+we had heard
+you had heard
+they had heard

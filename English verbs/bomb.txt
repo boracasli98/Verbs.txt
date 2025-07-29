@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I bomb
+you bomb
+he/she/it bombs
+we bomb
+you bomb
+they bomb
+
+==PRESENT CONTINUOUS TENSE==
+I am bombing
+you are bombing
+he/she/it is bombing
+we are bombing
+you are bombing
+they are bombing
+
+==PAST TENSE==
+I bombed
+you bombed
+he/she/it bombed
+we bombed
+you bombed
+they bombed
+
+==PRESENT PERFECT==
+I have bombed
+you have bombed
+he/she/it has bombed
+we have bombed
+you have bombed
+they have bombed
+
+==PAST PERFECT==
+I had bombed
+you had bombed
+he/she/it had bombed
+we had bombed
+you had bombed
+they had bombed

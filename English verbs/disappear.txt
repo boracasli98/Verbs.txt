@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I disappear
+you disappear
+he/she/it disappears
+we disappear
+you disappear
+they disappear
+
+==PRESENT CONTINUOUS TENSE==
+I am disappearing
+you are disappearing
+he/she/it is disappearing
+we are disappearing
+you are disappearing
+they are disappearing
+
+==PAST TENSE==
+I disappeared
+you disappeared
+he/she/it disappeared
+we disappeared
+you disappeared
+they disappeared
+
+==PRESENT PERFECT==
+I have disappeared
+you have disappeared
+he/she/it has disappeared
+we have disappeared
+you have disappeared
+they have disappeared
+
+==PAST PERFECT==
+I had disappeared
+you had disappeared
+he/she/it had disappeared
+we had disappeared
+you had disappeared
+they had disappeared

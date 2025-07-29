@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I care
+you care
+he/she/it cares
+we care
+you care
+they care
+
+==PAST TENSE==
+I cared
+you cared
+he/she/it cared
+we cared
+you cared
+they cared

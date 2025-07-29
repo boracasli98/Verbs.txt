@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I lose
+you lose
+he/she/it loses
+we lose
+you lose
+they lose
+
+==PRESENT CONTINUOUS TENSE==
+I am losing
+you are losing
+he/she/it is losing
+we are losing
+you are losing
+they are losing
+
+==PAST TENSE==
+I lost
+you lost
+he/she/it lost
+we lost
+you lost
+they lost
+
+==PRESENT PERFECT==
+I have lost
+you have lost
+he/she/it has lost
+we have lost
+you have lost
+they have lost
+
+==PAST PERFECT==
+I had lost
+you had lost
+he/she/it had lost
+we had lost
+you had lost
+they had lost

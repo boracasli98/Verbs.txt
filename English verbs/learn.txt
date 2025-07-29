@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I learn
+you learn
+he/she/it learns
+we learn
+you learn
+they learn
+
+==PRESENT CONTINUOUS TENSE==
+I am learning
+you are learning
+he/she/it is learning
+we are learning
+you are learning
+they are learning
+
+==PAST TENSE==
+I learnt
+you learnt
+he/she/it learnt
+we learnt
+you learnt
+they learnt
+
+==PRESENT PERFECT==
+I have learnt
+you have learnt
+he/she/it has learnt
+we have learnt
+you have learnt
+they have learnt
+
+==PAST PERFECT==
+I had learnt
+you had learnt
+he/she/it had learnt
+we had learnt
+you had learnt
+they had learnt

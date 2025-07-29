@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I hesitate
+you hesitate
+he/she/it hesitates
+we hesitate
+you hesitate
+they hesitate
+
+==PAST TENSE==
+I hesitated
+you hesitated
+he/she/it hesitated
+we hesitated
+you hesitated
+they hesitated

@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I tell
+you tell
+he/she/it tells
+we tell
+you tell
+they tell
+
+==PRESENT CONTINUOUS TENSE==
+I am telling
+you are telling
+he/she/it is telling
+we are telling
+you are telling
+they are telling
+
+==PAST TENSE==
+I told
+you told
+he/she/it told
+we told
+you told
+they told
+
+==PRESENT PERFECT==
+I have told
+you have told
+he/she/it has told
+we have told
+you have told
+they have told
+
+==PAST PERFECT==
+I had told
+you had told
+he/she/it had told
+we had told
+you had told
+they had told

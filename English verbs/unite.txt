@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I unite
+you unite
+he/she/it unites
+we unite
+you unite
+they unite
+
+==PRESENT CONTINUOUS TENSE==
+I am uniting
+you are uniting
+he/she/it is uniting
+we are uniting
+you are uniting
+they are uniting
+
+==PAST TENSE==
+I united
+you united
+he/she/it united
+we united
+you united
+they united
+
+==PRESENT PERFECT==
+I have united
+you have united
+he/she/it has united
+we have united
+you have united
+they have united
+
+==PAST PERFECT==
+I had united
+you had united
+he/she/it had united
+we had united
+you had united
+they had united

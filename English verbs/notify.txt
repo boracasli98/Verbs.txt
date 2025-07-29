@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I notify
+you notify
+he/she/it notifies
+we notify
+you notify
+they notify
+
+==PRESENT CONTINUOUS TENSE==
+I am notifying
+you are notifying
+he/she/it is notifying
+we are notifying
+you are notifying
+they are notifying
+
+==PAST TENSE==
+I notified
+you notified
+he/she/it notified
+we notified
+you notified
+they notified
+
+==PRESENT PERFECT==
+I have notified
+you have notified
+he/she/it has notified
+we have notified
+you have notified
+they have notified
+
+==PAST PERFECT==
+I had notified
+you had notified
+he/she/it had notified
+we had notified
+you had notified
+they had notified

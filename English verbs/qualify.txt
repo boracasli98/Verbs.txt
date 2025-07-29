@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I qualify
+you qualify
+he/she/it qualifies
+we qualify
+you qualify
+they qualify
+
+==PRESENT CONTINUOUS TENSE==
+I am qualifying
+you are qualifying
+he/she/it is qualifying
+we are qualifying
+you are qualifying
+they are qualifying
+
+==PAST TENSE==
+I qualified
+you qualified
+he/she/it qualified
+we qualified
+you qualified
+they qualified
+
+==PRESENT PERFECT==
+I have qualified
+you have qualified
+he/she/it has qualified
+we have qualified
+you have qualified
+they have qualified
+
+==PAST PERFECT==
+I had qualified
+you had qualified
+he/she/it had qualified
+we had qualified
+you had qualified
+they had qualified
