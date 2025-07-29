@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+j'arrive
+tu arrives
+il/elle/on arrive
+nous arrivons
+vous arrivez
+ils/elles arrivent

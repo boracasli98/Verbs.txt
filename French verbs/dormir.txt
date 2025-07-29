@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je dors
+tu dors
+il/elle/on dort
+nous dormons
+vous dormez
+ils/elles dorment

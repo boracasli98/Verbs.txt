@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je tends
+tu tends
+il/elle/on tend
+nous tenons
+vous tenez
+ils/elles tendent

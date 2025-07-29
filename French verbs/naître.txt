@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je nais
+tu nais
+il/elle/on naît
+nous naissons
+vous naissez
+ils/elles naissent

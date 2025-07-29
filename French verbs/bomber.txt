@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je bombe
+tu bombes
+il/elle/on bombe
+nous bombons
+vous bombez
+ils/elles bombent

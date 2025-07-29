@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je m'avoue
+tu t'avoues
+il/elle/on s'avoue
+nous nous avouons
+vous vous avouez
+ils/elles s'avouent

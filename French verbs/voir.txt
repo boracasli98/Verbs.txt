@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je vois
+tu vois
+il/elle/on voit
+nous voyons
+vous voyez
+ils/elles voient

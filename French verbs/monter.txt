@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je monte
+tu montes
+il/elle/on monte
+nous montons
+vous montez
+ils/elles montent

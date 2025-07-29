@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je bats
+tu bats
+il/elle/on bat
+nous battons
+vous battez
+ils/elles battent

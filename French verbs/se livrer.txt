@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je me livre
+tu te livres
+il/elle/on se livre
+nous nous livrons
+vous vous livrez
+ils/elles se livrent

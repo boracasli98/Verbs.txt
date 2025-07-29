@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je fume
+tu fumes
+il/elle/on fume
+nous fumons
+vous fumez
+ils/elles fument

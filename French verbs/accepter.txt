@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+j'accepte
+tu acceptes
+il/elle/on accepte
+nous acceptons
+vous acceptez
+ils/elles acceptent

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je circule
+tu circules
+il/elle/on circule
+nous circulons
+vous circulez
+ils/elles circulent

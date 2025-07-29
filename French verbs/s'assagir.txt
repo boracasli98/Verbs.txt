@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je m'assagis
+tu t'assagis
+il/elle/on s'assagit
+nous nous assagissons
+vous vous assagissez
+ils/elles s'assagissent

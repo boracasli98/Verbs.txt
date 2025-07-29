@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+j'appuie
+tu appuies
+il/elle/on appuie
+nous appuyons
+vous appuyez
+ils/elles appuient

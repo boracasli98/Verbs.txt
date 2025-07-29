@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je plaide
+tu plaides
+il/elle/on plaide
+nous plaidons
+vous plaidez
+ils/elles plaident

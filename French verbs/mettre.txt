@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je mets
+tu mets
+il/elle/on met
+nous mettons
+vous mettez
+ils/elles mettent

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+j'imprime
+tu imprimes
+il/elle/on imprime
+nous imprimons
+vous imprimez
+ils/elles impriment

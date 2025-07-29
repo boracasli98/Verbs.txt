@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je vais
+tu vas
+il/elle/on va
+nous allons
+vous allez
+ils/elles vont

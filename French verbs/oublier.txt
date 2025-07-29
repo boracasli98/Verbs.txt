@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je oublie
+tu oublies
+il/elle/on oublie
+nous oublions
+vous oubliez
+ils/elles oublient

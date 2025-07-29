@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je mange
+tu manges
+il/elle/on mange
+nous mangeons
+vous mangez
+ils/elles mangent

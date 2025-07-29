@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je bâtis
+tu bâtis
+il/elle/on bâtit
+nous bâtissons
+vous bâtissez
+ils/elles bâtissent

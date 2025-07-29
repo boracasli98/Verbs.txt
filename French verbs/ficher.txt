@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je fiche
+tu fiches
+il/elle/on fiche
+nous fichons
+vous fichez
+ils/elles fichent

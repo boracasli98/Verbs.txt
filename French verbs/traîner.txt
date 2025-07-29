@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je traîne
+tu traînes
+il/elle/on traîne
+nous traînons
+vous traînez
+ils/elles traînent

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je cède
+tu cèdes
+il/elle/on cède
+nous cédons
+vous cédez
+ils/elles cèdent

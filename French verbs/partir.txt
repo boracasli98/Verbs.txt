@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je pars
+tu pars
+il/elle/on part
+nous partons
+vous partez
+ils/elles partent
