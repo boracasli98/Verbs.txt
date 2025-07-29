@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo aconsejo
+tú aconsejas
+él/ella/usted aconseja
+nosotros/nosotras aconsejamos
+vosotros/vosotras aconsejáis
+ellos/ellas/ustedes aconsejan

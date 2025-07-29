@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo barbarizo
+tú barbarizas
+él/ella/usted barbariza
+nosotros/nosotras barbarizamos
+vosotros/vosotras barbarizáis
+ellos/ellas/ustedes barbarizan

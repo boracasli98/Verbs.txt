@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo caigo
+tú caes
+él/ella/usted cae
+nosotros/nosotras caemos
+vosotros/vosotras caéis
+ellos/ellas/ustedes caen

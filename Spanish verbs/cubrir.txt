@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo cubro
+tú cubres
+él/ella/usted cubre
+nosotros/nosotras cubrimos
+vosotros/vosotras cubrís
+ellos/ellas/ustedes cubren

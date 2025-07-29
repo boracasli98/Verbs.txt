@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo estoy
+tú estás
+él/ella/usted está
+nosotros/nosotras estamos
+vosotros/vosotras estáis
+ellos/ellas/ustedes están

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo enseño
+tú enseñas
+él/ella/usted enseña
+nosotros/nosotras enseñamos
+vosotros/vosotras enseñáis
+ellos/ellas/ustedes enseñan

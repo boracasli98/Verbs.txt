@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo espulgo
+tú espulgas
+él/ella/usted espulga
+nosotros/nosotras espulgamos
+vosotros/vosotras espulgáis
+ellos/ellas/ustedes espulgan

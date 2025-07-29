@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo recomiendo
+tú recomiendas
+él/ella/usted recomienda
+nosotros/nosotras recomendamos
+vosotros/vosotras recomendáis
+ellos/ellas/ustedes recomiendan

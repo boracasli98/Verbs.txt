@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo mato
+tú matas
+él/ella/usted mata
+nosotros/nosotras matamos
+vosotros/vosotras matáis
+ellos/ellas/ustedes matan

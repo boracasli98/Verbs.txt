@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo avanzo
+tú avanzas
+él/ella/usted avanza
+nosotros/nosotras avanzamos
+vosotros/vosotras avanzáis
+ellos/ellas/ustedes avanzan

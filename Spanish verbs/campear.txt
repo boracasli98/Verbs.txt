@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo campeo
+tú campeas
+él/ella/usted campea
+nosotros/nosotras campeamos
+vosotros/vosotras campeáis
+ellos/ellas/ustedes campean

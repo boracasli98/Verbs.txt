@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo bebo
+tú bebes
+él/ella/usted bebe
+nosotros/nosotras bebemos
+vosotros/vosotras bebéis
+ellos/ellas/ustedes beben

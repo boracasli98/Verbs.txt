@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo bombeo
+tú bombeas
+él/ella/usted bombea
+nosotros/nosotras bombeamos
+vosotros/vosotras bombeáis
+ellos/ellas/ustedes bombean

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo incinero
+tú incineras
+él/ella/usted incinera
+nosotros/nosotras incineramos
+vosotros/vosotras incineráis
+ellos/ellas/ustedes incineran

@@ -1,0 +1,15 @@
+==PRESENT SIMPLE TENSE==
+yo aprendo
+tú aprendes
+él/ella/usted aprende
+nosotros/nosotras aprendemos
+vosotros/vosotras aprendéis
+ellos/ellas/ustedes aprenden
+
+==PAST SIMPLE TENSE==
+yo aprendé
+tú aprendiste
+él/ella/usted aprendió
+nosotros/nosotras aprendimos
+vosotros/vosotras aprendisteis
+ellos/ellas/ustedes aprendieron

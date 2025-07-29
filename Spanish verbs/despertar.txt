@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo despierto
+tú despiertas
+él/ella/usted despierta
+nosotros/nosotras despertamos
+vosotros/vosotras despertáis
+ellos/ellas/ustedes despiertan

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo despunto
+tú despuntas
+él/ella/usted despunta
+nosotros/nosotras despuntamos
+vosotros/vosotras despuntáis
+ellos/ellas/ustedes despuntan

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo cuenteo
+tú cuenteas
+él/ella/usted cuentea
+nosotros/nosotras cuenteamos
+vosotros/vosotras cuenteáis
+ellos/ellas/ustedes cuentean

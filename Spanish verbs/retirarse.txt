@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me retiro
+tú te retiras
+él/ella/usted se retira
+nosotros/nosotras nos retiramos
+vosotros/vosotras os retiráis
+ellos/ellas/ustedes se retiran

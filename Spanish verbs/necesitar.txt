@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo necesito
+tú necesitas
+él/ella/usted necesita
+nosotros/nosotras necesitamos
+vosotros/vosotras necesitáis
+ellos/ellas/ustedes necesitan

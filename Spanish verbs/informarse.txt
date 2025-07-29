@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me informo
+tú te informas
+él/ella/usted se informa
+nosotros/nosotras nos informamos
+vosotros/vosotras os informáis
+ellos/ellas/ustedes se informan

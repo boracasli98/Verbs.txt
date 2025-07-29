@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo granulo
+tú granulas
+él/ella/usted granula
+nosotros/nosotras granulamos
+vosotros/vosotras granuláis
+ellos/ellas/ustedes granulan

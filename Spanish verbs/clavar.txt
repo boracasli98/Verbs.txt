@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo clavo
+tú clavas
+él/ella/usted clava
+nosotros/nosotras clavamos
+vosotros/vosotras claváis
+ellos/ellas/ustedes clavan

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo siembro
+tú siembras
+él/ella/usted siembra
+nosotros/nosotras sembramos
+vosotros/vosotras sembráis
+ellos/ellas/ustedes siembran

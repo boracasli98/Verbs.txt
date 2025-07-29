@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo confiero
+tú confieres
+él/ella/usted confiere
+nosotros/nosotras conferimos
+vosotros/vosotras conferís
+ellos/ellas/ustedes confieren

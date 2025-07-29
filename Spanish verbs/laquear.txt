@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo laqueo
+tú laqueas
+él/ella/usted laquea
+nosotros/nosotras laqueamos
+vosotros/vosotras laqueáis
+ellos/ellas/ustedes laquean

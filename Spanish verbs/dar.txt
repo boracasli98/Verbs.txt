@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo doy
+tú das
+él/ella/usted da
+nosotros/nosotras damos
+vosotros/vosotras dais
+ellos/ellas/ustedes dan

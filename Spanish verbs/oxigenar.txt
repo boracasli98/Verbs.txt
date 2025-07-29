@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo oxigeno
+tú oxigenas
+él/ella/usted oxigena
+nosotros/nosotras oxigenamos
+vosotros/vosotras oxigenáis
+ellos/ellas/ustedes oxigenan

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo cercioro
+tú cercioras
+él/ella/usted cerciora
+nosotros/nosotras cercioramos
+vosotros/vosotras cercioráis
+ellos/ellas/ustedes cercioran

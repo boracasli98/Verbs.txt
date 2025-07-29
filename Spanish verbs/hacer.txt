@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo hago
+tú haces
+él/ella/usted hace
+nosotros/nosotras hacemos
+vosotros/vosotras hacéis
+ellos/ellas/ustedes hacen

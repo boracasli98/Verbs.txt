@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo comento
+tú comentas
+él/ella/usted comenta
+nosotros/nosotras comentamos
+vosotros/vosotras comentáis
+ellos/ellas/ustedes comentan

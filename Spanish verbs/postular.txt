@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo postulo
+tú postulas
+él/ella/usted postula
+nosotros/nosotras postulamos
+vosotros/vosotras postuláis
+ellos/ellas/ustedes postulan

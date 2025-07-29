@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo bonifico
+tú bonificas
+él/ella/usted bonifica
+nosotros/nosotras bonificamos
+vosotros/vosotras bonificáis
+ellos/ellas/ustedes bonifican

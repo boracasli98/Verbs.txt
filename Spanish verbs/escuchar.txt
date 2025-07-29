@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo escucho
+tú escuchas
+él/ella/usted escucha
+nosotros/nosotras escuchamos
+vosotros/vosotras escucháis
+ellos/ellas/ustedes escuchan

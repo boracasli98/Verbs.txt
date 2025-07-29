@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo camelo
+tú camelas
+él/ella/usted camela
+nosotros/nosotras camelamos
+vosotros/vosotras cameláis
+ellos/ellas/ustedes camelan

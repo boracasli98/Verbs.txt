@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me arraigo
+tú te arraigas
+él/ella/usted se arraiga
+nosotros/nosotras nos arraigamos
+vosotros/vosotras os arraigáis
+ellos/ellas/ustedes se arraigan

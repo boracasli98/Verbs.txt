@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo cincelo
+tú cincelas
+él/ella/usted cincela
+nosotros/nosotras cincelamos
+vosotros/vosotras cinceláis
+ellos/ellas/ustedes cincelan

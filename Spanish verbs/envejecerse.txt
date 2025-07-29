@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me envejezco
+tú te envejeces
+él/ella/usted se envejece
+nosotros/nosotras nos envejecemos
+vosotros/vosotras os envejecéis
+ellos/ellas/ustedes se envejecen

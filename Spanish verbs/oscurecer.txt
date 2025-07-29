@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo oscurezco
+tú oscureces
+él/ella/usted oscurece
+nosotros/nosotras oscurecemos
+vosotros/vosotras oscurecéis
+ellos/ellas/ustedes oscurecen

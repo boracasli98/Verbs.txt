@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo califico
+tú calificas
+él/ella/usted califica
+nosotros/nosotras calificamos
+vosotros/vosotras calificáis
+ellos/ellas/ustedes califican

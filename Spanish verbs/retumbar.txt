@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo retumbo
+tú retumbas
+él/ella/usted retumba
+nosotros/nosotras retumbamos
+vosotros/vosotras retumbáis
+ellos/ellas/ustedes retumban

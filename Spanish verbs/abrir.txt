@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo abro
+tú abres
+él/ella/usted abre
+nosotros/nosotras abrimos
+vosotros/vosotras abrís
+ellos/ellas/ustedes abren

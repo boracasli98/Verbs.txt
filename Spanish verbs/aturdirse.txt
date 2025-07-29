@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me aturdo
+tú te aturdes
+él/ella/usted se aturde
+nosotros/nosotras nos aturdimos
+vosotros/vosotras os aturdís
+ellos/ellas/ustedes se aturden

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo pico
+tú picas
+él/ella/usted pica
+nosotros/nosotras picamos
+vosotros/vosotras picáis
+ellos/ellas/ustedes pican

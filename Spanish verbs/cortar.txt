@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo corto
+tú cortas
+él/ella/usted corta
+nosotros/nosotras cortamos
+vosotros/vosotras cortáis
+ellos/ellas/ustedes cortan

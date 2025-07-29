@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo controlo
+tú controlas
+él/ella/usted controla
+nosotros/nosotras controlamos
+vosotros/vosotras controláis
+ellos/ellas/ustedes controlan

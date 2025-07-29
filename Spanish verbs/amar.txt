@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo amo
+tú amas
+él/ella/usted ama
+nosotros/nosotras amamos
+vosotros/vosotras amáis
+ellos/ellas/ustedes aman

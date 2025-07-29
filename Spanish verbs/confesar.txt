@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo confieso
+tú confiesas
+él/ella/usted confiesa
+nosotros/nosotras confesamos
+vosotros/vosotras confesáis
+ellos/ellas/ustedes confiesan

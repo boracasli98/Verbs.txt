@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo cierro
+tú cierras
+él/ella/usted cierra
+nosotros/nosotras cerramos
+vosotros/vosotras cerráis
+ellos/ellas/ustedes cierran

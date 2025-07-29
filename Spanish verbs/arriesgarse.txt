@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me arriesgo
+tú te arriesgas
+él/ella/usted se arriesga
+nosotros/nosotras nos arriesgamos
+vosotros/vosotras os arriesgáis
+ellos/ellas/ustedes se arriesgan

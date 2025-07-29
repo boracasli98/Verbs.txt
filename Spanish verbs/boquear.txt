@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo boqueo
+tú boqueas
+él/ella/usted boquea
+nosotros/nosotras boqueamos
+vosotros/vosotras boqueáis
+ellos/ellas/ustedes boquean

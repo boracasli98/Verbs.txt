@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo autorizo
+tú autorizas
+él/ella/usted autoriza
+nosotros/nosotras autorizamos
+vosotros/vosotras autorizáis
+ellos/ellas/ustedes autorizan

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo acuso
+tú acusas
+él/ella/usted acusa
+nosotros/nosotras acusamos
+vosotros/vosotras acusáis
+ellos/ellas/ustedes acusan

@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me atemorizo
+tú te atemorizas
+él/ella/usted se atemoriza
+nosotros/nosotras nos atemorizamos
+vosotros/vosotras os atemorizáis
+ellos/ellas/ustedes se atemorizan

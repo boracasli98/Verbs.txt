@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo quiero
+tú quieres
+él/ella/usted quiere
+nosotros/nosotras queremos
+vosotros/vosotras queréis
+ellos/ellas/ustedes quieren

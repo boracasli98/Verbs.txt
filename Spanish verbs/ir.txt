@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo voy
+tú vas
+él/ella/usted va
+nosotros/nosotras vamos
+vosotros/vosotras váis
+ellos/ellas/ustedes van

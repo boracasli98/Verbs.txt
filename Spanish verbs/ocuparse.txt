@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me ocupo
+tú te ocupas
+él/ella/usted se ocupa
+nosotros/nosotras nos ocupamos
+vosotros/vosotras os ocupáis
+ellos/ellas/ustedes se ocupan

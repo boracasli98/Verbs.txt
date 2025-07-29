@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo ilustro
+tú ilustras
+él/ella/usted ilustra
+nosotros/nosotras ilustramos
+vosotros/vosotras ilustráis
+ellos/ellas/ustedes ilustran

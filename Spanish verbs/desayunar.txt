@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo desayuno
+tú desayunas
+él/ella/usted desayuna
+nosotros/nosotras desayunamos
+vosotros/vosotras desayunáis
+ellos/ellas/ustedes desayunan

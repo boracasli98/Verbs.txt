@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo debato
+tú debates
+él/ella/usted debate
+nosotros/nosotras debatimos
+vosotros/vosotras debatís
+ellos/ellas/ustedes debaten

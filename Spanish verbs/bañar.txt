@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo baño
+tú bañas
+él/ella/usted baña
+nosotros/nosotras bañamos
+vosotros/vosotras bañáis
+ellos/ellas/ustedes bañan

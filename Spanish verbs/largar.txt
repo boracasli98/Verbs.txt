@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo largo
+tú largas
+él/ella/usted larga
+nosotros/nosotras largamos
+vosotros/vosotras largáis
+ellos/ellas/ustedes largan

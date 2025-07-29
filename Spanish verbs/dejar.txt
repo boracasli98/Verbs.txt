@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo dejo
+tú dejas
+él/ella/usted deja
+nosotros/nosotras dejamos
+vosotros/vosotras dejáis
+ellos/ellas/ustedes dejan

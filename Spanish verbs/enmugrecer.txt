@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo enmugrezco
+tú enmugreces
+él/ella/usted enmugrece
+nosotros/nosotras enmugrecemos
+vosotros/vosotras enmugrecéis
+ellos/ellas/ustedes enmugrecen
