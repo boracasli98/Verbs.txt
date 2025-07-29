@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+eu uivo
+tu uivas
+ele/ela/você uiva
+nós uivamos
+vós uivais
+eles/elas/vocês uivam
