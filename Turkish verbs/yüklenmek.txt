@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yüklenirüm
+yüklenirsin
+yüklenir
+yükleniriz
+yüklenirsiniz
+yüklenirler
+
+=NEGATIVE=
+yüklenmem
+yüklenmezsin
+yüklenmez
+yüklenmeyiz
+yüklenmezsiniz
+yüklenmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+yüklenir miyim
+yüklenir misin
+yüklenir mi
+yüklenir miyiz
+yüklenir misiniz
+yüklenirler mi
+
+=NEGATIVE INTERROGATIVE=
+yüklenmez miyim
+yüklenmez misin
+yüklenmez mi
+yüklenmez miyiz
+yüklenmez misiniz
+yüklenmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yükleniyorum
+yükleniyorsun
+yükleniyor
+yükleniyoruz
+yükleniyorsunuz
+yükleniyorlar
+
+=NEGATIVE=
+yüklenmiyorum
+yüklenmiyorsun
+yüklenmiyor
+yüklenmiyoruz
+yüklenmiyorsunuz
+yüklenmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yükleniyor muyum
+yükleniyor musun
+yükleniyor mu
+yükleniyor muyuz
+yükleniyor musunuz
+yükleniyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yüklenmiyor muyum
+yüklenmiyor musun
+yüklenmiyor mu
+yüklenmiyor muyuz
+yüklenmiyor musunuz
+yüklenmiyorlar mı

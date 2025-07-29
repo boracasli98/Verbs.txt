@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+salınırım
+salınırsın
+salınır
+salınırız
+salınırsınız
+salınırlar
+
+=NEGATIVE=
+salınmam
+salınmazsın
+salınmaz
+salınmayız
+salınmazsınız
+salınmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+salınır mıyım
+salınır mısın
+salınır mı
+salınır mıyız
+salınır mısınız
+salınırlar mı
+
+=NEGATIVE INTERROGATIVE=
+salınmaz mıyım
+salınmaz mısın
+salınmaz mı
+salınmaz mıyız
+salınmaz mısınız
+salınmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+salınıyorum
+salınıyorsun
+salınıyor
+salınıyoruz
+salınıyorsunuz
+salınıyorlar
+
+=NEGATIVE=
+salınmıyorum
+salınmıyorsun
+salınmıyor
+salınmıyoruz
+salınmıyorsunuz
+salınmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+salınıyor muyum
+salınıyor musun
+salınıyor mu
+salınıyor muyuz
+salınıyor musunuz
+salınıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+salınmıyor muyum
+salınmıyor musun
+salınmıyor mu
+salınmıyor muyuz
+salınmıyor musunuz
+salınmıyorlar mı

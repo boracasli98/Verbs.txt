@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+aşınırım
+aşınırsın
+aşınır
+aşınırız
+aşınırsınız
+aşınırlar
+
+=NEGATIVE=
+aşınmam
+aşınmazsın
+aşınmaz
+aşınmayız
+aşınmazsınız
+aşınmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+aşınır mıyım
+aşınır mısın
+aşınır mı
+aşınır mıyız
+aşınır mısınız
+aşınırlar mı
+
+=NEGATIVE INTERROGATIVE=
+aşınmaz mıyım
+aşınmaz mısın
+aşınmaz mı
+aşınmaz mıyız
+aşınmaz mısınız
+aşınmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+aşınıyorum
+aşınıyorsun
+aşınıyor
+aşınıyoruz
+aşınıyorsunuz
+aşınıyorlar
+
+=NEGATIVE=
+aşınmıyorum
+aşınmıyorsun
+aşınmıyor
+aşınmıyoruz
+aşınmıyorsunuz
+aşınmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+aşınıyor muyum
+aşınıyor musun
+aşınıyor mu
+aşınıyor muyuz
+aşınıyor musunuz
+aşınıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+aşınmıyor muyum
+aşınmıyor musun
+aşınmıyor mu
+aşınmıyor muyuz
+aşınmıyor musunuz
+aşınmıyorlar mı

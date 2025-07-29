@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+bastırırım
+bastırırsın
+bastırır
+bastırırız
+bastırırsınız
+bastırırlar
+
+=NEGATIVE=
+bastırmam
+bastırmazsın
+bastırmaz
+bastırmayız
+bastırmazsınız
+bastırmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+bastırır mıyım
+bastırır mısın
+bastırır mı
+bastırır mıyız
+bastırır mısınız
+bastırırlar mı
+
+=NEGATIVE INTERROGATIVE=
+bastırmaz mıyım
+bastırmaz mısın
+bastırmaz mı
+bastırmaz mıyız
+bastırmaz mısınız
+bastırmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+bastırıyorum
+bastırıyorsun
+bastırıyor
+bastırıyoruz
+bastırıyorsunuz
+bastırıyorlar
+
+=NEGATIVE=
+bastırmıyorum
+bastırmıyorsun
+bastırmıyor
+bastırmıyoruz
+bastırmıyorsunuz
+bastırmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+bastırıyor muyum
+bastırıyor musun
+bastırıyor mu
+bastırıyor muyuz
+bastırıyor musunuz
+bastırıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+bastırmıyor muyum
+bastırmıyor musun
+bastırmıyor mu
+bastırmıyor muyuz
+bastırmıyor musunuz
+bastırmıyorlar mı

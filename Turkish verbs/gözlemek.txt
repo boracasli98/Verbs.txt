@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+gözlerim
+gözlersin
+gözler
+gözleriz
+gözlersiniz
+gözlerler
+
+=NEGATIVE=
+gözlemem
+gözlemezsin
+gözlemez
+gözlemeyiz
+gözlemezsiniz
+gözlemezler
+
+=AFFIRMATIVE INTERROGATIVE=
+gözler miyim
+gözler misin
+gözler mi
+gözler miyiz
+gözler misiniz
+gözlerler mi
+
+=NEGATIVE INTERROGATIVE=
+gözlemez miyim
+gözlemez misin
+gözlemez mi
+gözlemez miyiz
+gözlemez misiniz
+gözlemezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+gözlüyorum
+gözlüyorsun
+gözlüyor
+gözlüyoruz
+gözlüyorsunuz
+gözlüyorlar
+
+=NEGATIVE=
+gözlemiyorum
+gözlemiyorsun
+gözlemiyor
+gözlemiyoruz
+gözlemiyorsunuz
+gözlemiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+gözlüyor muyum
+gözlüyor musun
+gözlüyor mu
+gözlüyor muyuz
+gözlüyor musunuz
+gözlüyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+gözlemiyor muyum
+gözlemiyor musun
+gözlemiyor mu
+gözlemiyor muyuz
+gözlemiyor musunuz
+gözlemiyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yediririm
+yedirirsin
+yedirir
+yediririz
+yedirirsiniz
+yedirirler
+
+=NEGATIVE=
+yedirmem
+yedirmezsin
+yedirmez
+yedirmeyiz
+yedirmezsiniz
+yedirmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+yedirir miyim
+yedirir misin
+yedirir mi
+yedirir miyiz
+yedirir misiniz
+yedirirler mi
+
+=NEGATIVE INTERROGATIVE=
+yedirmez miyim
+yedirmez misin
+yedirmez mi
+yedirmez miyiz
+yedirmez misiniz
+yedirmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yediriyorum
+yediriyorsun
+yediriyor
+yediriyoruz
+yediriyorsunuz
+yediriyorlar
+
+=NEGATIVE=
+yedirmiyorum
+yedirmiyorsun
+yedirmiyor
+yedirmiyoruz
+yedirmiyorsunuz
+yedirmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yediriyor muyum
+yediriyor musun
+yediriyor mu
+yediriyor muyuz
+yediriyor musunuz
+yediriyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yedirmiyor muyum
+yedirmiyor musun
+yedirmiyor mu
+yedirmiyor muyuz
+yedirmiyor musunuz
+yedirmiyorlar mı

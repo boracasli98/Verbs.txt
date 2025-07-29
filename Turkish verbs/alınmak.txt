@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+alınırım
+alınırsın
+alınır
+alınırız
+alınırsınız
+alınırlar
+
+=NEGATIVE=
+alınmam
+alınmazsın
+alınmaz
+alınmayız
+alınmazsınız
+alınmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+alınır mıyım
+alınır mısın
+alınır mı
+alınır mıyız
+alınır mısınız
+alınırlar mı
+
+=NEGATIVE INTERROGATIVE=
+alınmaz mıyım
+alınmaz mısın
+alınmaz mı
+alınmaz mıyız
+alınmaz mısınız
+alınmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+alınıyorum
+alınıyorsun
+alınıyor
+alınıyoruz
+alınıyorsunuz
+alınıyorlar
+
+=NEGATIVE=
+alınmıyorum
+alınmıyorsun
+alınmıyor
+alınmıyoruz
+alınmıyorsunuz
+alınmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+alınıyor muyum
+alınıyor musun
+alınıyor mu
+alınıyor muyuz
+alınıyor musunuz
+alınıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+alınmıyor muyum
+alınmıyor musun
+alınmıyor mu
+alınmıyor muyuz
+alınmıyor musunuz
+alınmıyorlar mı

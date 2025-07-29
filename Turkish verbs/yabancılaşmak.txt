@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yabancılaşırım
+yabancılaşırsın
+yabancılaşır
+yabancılaşırız
+yabancılaşırsınız
+yabancılaşırlar
+
+=NEGATIVE=
+yabancılaşmam
+yabancılaşmazsın
+yabancılaşmaz
+yabancılaşmayız
+yabancılaşmazsınız
+yabancılaşmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yabancılaşır mıyım
+yabancılaşır mısın
+yabancılaşır mı
+yabancılaşır mıyız
+yabancılaşır mısınız
+yabancılaşırlar mı
+
+=NEGATIVE INTERROGATIVE=
+yabancılaşmaz mıyım
+yabancılaşmaz mısın
+yabancılaşmaz mı
+yabancılaşmaz mıyız
+yabancılaşmaz mısınız
+yabancılaşmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yabancılaşıyorum
+yabancılaşıyorsun
+yabancılaşıyor
+yabancılaşıyoruz
+yabancılaşıyorsunuz
+yabancılaşıyorlar
+
+=NEGATIVE=
+yabancılaşmıyorum
+yabancılaşmıyorsun
+yabancılaşmıyor
+yabancılaşmıyoruz
+yabancılaşmıyorsunuz
+yabancılaşmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yabancılaşıyor muyum
+yabancılaşıyor musun
+yabancılaşıyor mu
+yabancılaşıyor muyuz
+yabancılaşıyor musunuz
+yabancılaşıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yabancılaşmıyor muyum
+yabancılaşmıyor musun
+yabancılaşmıyor mu
+yabancılaşmıyor muyuz
+yabancılaşmıyor musunuz
+yabancılaşmıyorlar mı

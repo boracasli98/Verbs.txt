@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+sırlarım
+sırlarsın
+sırlar
+sırlarız
+sırlarsınız
+sırlarlar
+
+=NEGATIVE=
+sırlamam
+sırlamazsın
+sırlamaz
+sırlamayız
+sırlamazsınız
+sırlamazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+sırlar mıyım
+sırlar mısın
+sırlar mı
+sırlar mıyız
+sırlar mısınız
+sırlarlar mı
+
+=NEGATIVE INTERROGATIVE=
+sırlamaz mıyım
+sırlamaz mısın
+sırlamaz mı
+sırlamaz mıyız
+sırlamaz mısınız
+sırlamazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+sırlıyorum
+sırlıyorsun
+sırlıyor
+sırlıyoruz
+sırlıyorsunuz
+sırlıyorlar
+
+=NEGATIVE=
+sırlamıyorum
+sırlamıyorsun
+sırlamıyor
+sırlamıyoruz
+sırlamıyorsunuz
+sırlamıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+sırlıyor muyum
+sırlıyor musun
+sırlıyor mu
+sırlıyor muyuz
+sırlıyor musunuz
+sırlıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+sırlamıyor muyum
+sırlamıyor musun
+sırlamıyor mu
+sırlamıyor muyuz
+sırlamıyor musunuz
+sırlamıyorlar mı

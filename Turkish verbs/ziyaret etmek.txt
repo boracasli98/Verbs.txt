@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+ziyaret ederim
+ziyaret edersin
+ziyaret eder
+ziyaret ederiz
+ziyaret edersiniz
+ziyaret ederler
+
+=NEGATIVE=
+ziyaret etmem
+ziyaret etmezsin
+ziyaret etmez
+ziyaret etmeyiz
+ziyaret etmezsiniz
+ziyaret etmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+ziyaret eder miyim
+ziyaret eder misin
+ziyaret eder mi
+ziyaret eder miyiz
+ziyaret eder misiniz
+ziyaret ederler mi
+
+=NEGATIVE INTERROGATIVE=
+ziyaret etmez miyim
+ziyaret etmez misin
+ziyaret etmez mi
+ziyaret etmez miyiz
+ziyaret etmez misiniz
+ziyaret etmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+ziyaret ediyorum
+ziyaret ediyorsun
+ziyaret ediyor
+ziyaret ediyoruz
+ziyaret ediyorsunuz
+ziyaret ediyorlar
+
+=NEGATIVE=
+ziyaret etmiyorum
+ziyaret etmiyorsun
+ziyaret etmiyor
+ziyaret etmiyoruz
+ziyaret etmiyorsunuz
+ziyaret etmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+ziyaret ediyor muyum
+ziyaret ediyor musun
+ziyaret ediyor mu
+ziyaret ediyor muyuz
+ziyaret ediyor musunuz
+ziyaret ediyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+ziyaret etmiyor muyum
+ziyaret etmiyor musun
+ziyaret etmiyor mu
+ziyaret etmiyor muyuz
+ziyaret etmiyor musunuz
+ziyaret etmiyorlar mı

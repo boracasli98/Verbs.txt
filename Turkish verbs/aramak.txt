@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+ararım
+ararsın
+arar
+ararız
+ararsınız
+ararlar
+
+=NEGATIVE=
+aramam
+aramazsın
+aramaz
+aramayız
+aramazsınız
+aramazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+arar mıyım
+arar mısın
+arar mı
+arar mıyız
+arar mısınız
+ararlar mı
+
+=NEGATIVE INTERROGATIVE=
+aramaz mıyım
+aramaz mısın
+aramaz mı
+aramaz mıyız
+aramaz mısınız
+aramazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+arıyorum
+arıyorsun
+arıyor
+arıyoruz
+arıyorsunuz
+arıyorlar
+
+=NEGATIVE=
+aramıyorum
+aramıyorsun
+aramıyor
+aramıyoruz
+aramıyorsunuz
+aramıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+arıyor muyum
+arıyor musun
+arıyor mu
+arıyor muyuz
+arıyor musunuz
+arıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+aramıyor muyum
+aramıyor musun
+aramıyor mu
+aramıyor muyuz
+aramıyor musunuz
+aramıyorlar mı

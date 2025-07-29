@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+taşınırım
+taşınırsın
+taşınır
+taşınırız
+taşınırsınız
+taşınırlar
+
+=NEGATIVE=
+taşınmam
+taşınmazsın
+taşınmaz
+taşınmayız
+taşınmazsınız
+taşınmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+taşınır mıyım
+taşınır mısın
+taşınır mı
+taşınır mıyız
+taşınır mısınız
+taşınırlar mı
+
+=NEGATIVE INTERROGATIVE=
+taşınmaz mıyım
+taşınmaz mısın
+taşınmaz mı
+taşınmaz mıyız
+taşınmaz mısınız
+taşınmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+taşınıyorum
+taşınıyorsun
+taşınıyor
+taşınıyoruz
+taşınıyorsunuz
+taşınıyorlar
+
+=NEGATIVE=
+taşınmıyorum
+taşınmıyorsun
+taşınmıyor
+taşınmıyoruz
+taşınmıyorsunuz
+taşınmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+taşınıyor muyum
+taşınıyor musun
+taşınıyor mu
+taşınıyor muyuz
+taşınıyor musunuz
+taşınıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+taşınmıyor muyum
+taşınmıyor musun
+taşınmıyor mu
+taşınmıyor muyuz
+taşınmıyor musunuz
+taşınmıyorlar mı

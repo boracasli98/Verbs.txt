@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+uğraşırım
+uğraşırsın
+uğraşır
+uğraşırız
+uğraşırsınız
+uğraşırlar
+
+=NEGATIVE=
+uğraşmam
+uğraşmazsın
+uğraşmaz
+uğraşmayız
+uğraşmazsınız
+uğraşmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+uğraşır mıyım
+uğraşır mısın
+uğraşır mı
+uğraşır mıyız
+uğraşır mısınız
+uğraşırlar mı
+
+=NEGATIVE INTERROGATIVE=
+uğraşmaz mıyım
+uğraşmaz mısın
+uğraşmaz mı
+uğraşmaz mıyız
+uğraşmaz mısınız
+uğraşmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+uğraşıyorum
+uğraşıyorsun
+uğraşıyor
+uğraşıyoruz
+uğraşıyorsunuz
+uğraşıyorlar
+
+=NEGATIVE=
+uğraşmıyorum
+uğraşmıyorsun
+uğraşmıyor
+uğraşmıyoruz
+uğraşmıyorsunuz
+uğraşmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+uğraşıyor muyum
+uğraşıyor musun
+uğraşıyor mu
+uğraşıyor muyuz
+uğraşıyor musunuz
+uğraşıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+uğraşmıyor muyum
+uğraşmıyor musun
+uğraşmıyor mu
+uğraşmıyor muyuz
+uğraşmıyor musunuz
+uğraşmıyorlar mı

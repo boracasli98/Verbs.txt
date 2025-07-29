@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yazdırırım
+yazdırırsın
+yazdırır
+yazdırırız
+yazdırırsınız
+yazdırırlar
+
+=NEGATIVE=
+yazdırmam
+yazdırmazsın
+yazdırmaz
+yazdırmayız
+yazdırmazsınız
+yazdırmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yazdırır mıyım
+yazdırır mısın
+yazdırır mı
+yazdırır mıyız
+yazdırır mısınız
+yazdırırlar mı
+
+=NEGATIVE INTERROGATIVE=
+yazdırmaz mıyım
+yazdırmaz mısın
+yazdırmaz mı
+yazdırmaz mıyız
+yazdırmaz mısınız
+yazdırmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yazdırıyorum
+yazdırıyorsun
+yazdırıyor
+yazdırıyoruz
+yazdırıyorsunuz
+yazdırıyorlar
+
+=NEGATIVE=
+yazdırmıyorum
+yazdırmıyorsun
+yazdırmıyor
+yazdırmıyoruz
+yazdırmıyorsunuz
+yazdırmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yazdırıyor muyum
+yazdırıyor musun
+yazdırıyor mu
+yazdırıyor muyuz
+yazdırıyor musunuz
+yazdırıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yazdırmıyor muyum
+yazdırmıyor musun
+yazdırmıyor mu
+yazdırmıyor muyuz
+yazdırmıyor musunuz
+yazdırmıyorlar mı

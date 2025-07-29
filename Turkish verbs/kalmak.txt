@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+kalırım
+kalırsın
+kalır
+kalırız
+kalırsınız
+kalırlar
+
+=NEGATIVE=
+kalmam
+kalmazsın
+kalmaz
+kalmayız
+kalmazsınız
+kalmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+kalır mıyım
+kalır mısın
+kalır mı
+kalır mıyız
+kalır mısınız
+kalırlar mı
+
+=NEGATIVE INTERROGATIVE=
+kalmaz mıyım
+kalmaz mısın
+kalmaz mı
+kalmaz mıyız
+kalmaz mısınız
+kalmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+kalıyorum
+kalıyorsun
+kalıyor
+kalıyoruz
+kalıyorsunuz
+kalıyorlar
+
+=NEGATIVE=
+kalmıyorum
+kalmıyorsun
+kalmıyor
+kalmıyoruz
+kalmıyorsunuz
+kalmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+kalıyor muyum
+kalıyor musun
+kalıyor mu
+kalıyor muyuz
+kalıyor musunuz
+kalıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+kalmıyor muyum
+kalmıyor musun
+kalmıyor mu
+kalmıyor muyuz
+kalmıyor musunuz
+kalmıyorlar mı

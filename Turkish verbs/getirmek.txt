@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+getiririm
+getirirsin
+getirir
+getiririz
+getirirsiniz
+getirirler
+
+=NEGATIVE=
+getirmem
+getirmezsin
+getirmez
+getirmeyiz
+getirmezsiniz
+getirmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+getirir miyim
+getirir misin
+getirir mi
+getirir miyiz
+getirir misiniz
+getirirler mi
+
+=NEGATIVE INTERROGATIVE=
+getirmez miyim
+getirmez misin
+getirmez mi
+getirmez miyiz
+getirmez misiniz
+getirmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+getiriyorum
+getiriyorsun
+getiriyor
+getiriyoruz
+getiriyorsunuz
+getiriyorlar
+
+=NEGATIVE=
+getirmiyorum
+getirmiyorsun
+getirmiyor
+getirmiyoruz
+getirmiyorsunuz
+getirmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+getiriyor muyum
+getiriyor musun
+getiriyor mu
+getiriyor muyuz
+getiriyor musunuz
+getiriyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+getirmiyor muyum
+getirmiyor musun
+getirmiyor mu
+getirmiyor muyuz
+getirmiyor musunuz
+getirmiyorlar mı

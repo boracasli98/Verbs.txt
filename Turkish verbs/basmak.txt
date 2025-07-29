@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+basarım
+basarsın
+basar
+basarız
+basarsınız
+basarlar
+
+=NEGATIVE=
+basmam
+basmazsın
+basmaz
+basmayız
+basmazsınız
+basmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+basar mıyım
+basar mısın
+basar mı
+basar mıyız
+basar mısınız
+basarlar mı
+
+=NEGATIVE INTERROGATIVE=
+basmaz mıyım
+basmaz mısın
+basmaz mı
+basmaz mıyız
+basmaz mısınız
+basmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+basıyorum
+basıyorsun
+basıyor
+basıyoruz
+basıyorsunuz
+basıyorlar
+
+=NEGATIVE=
+basmıyorum
+basmıyorsun
+basmıyor
+basmıyoruz
+basmıyorsunuz
+basmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+basıyor muyum
+basıyor musun
+basıyor mu
+basıyor muyuz
+basıyor musunuz
+basıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+basmıyor muyum
+basmıyor musun
+basmıyor mu
+basmıyor muyuz
+basmıyor musunuz
+basmıyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+bilirim
+bilirsin
+bilir
+biliriz
+bilirsiniz
+bilirler
+
+=NEGATIVE=
+bilmem
+bilmezsin
+bilmez
+bilmeyiz
+bilmezsiniz
+bilmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+bilir miyim
+bilir misin
+bilir mi
+bilir miyiz
+bilir misiniz
+bilirler mi
+
+=NEGATIVE INTERROGATIVE=
+bilmez miyim
+bilmez misin
+bilmez mi
+bilmez miyiz
+bilmez misiniz
+bilmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+biliyorum
+biliyorsun
+biliyor
+biliyoruz
+biliyorsunuz
+biliyorlar
+
+=NEGATIVE=
+bilmiyorum
+bilmiyorsun
+bilmiyor
+bilmiyoruz
+bilmiyorsunuz
+bilmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+biliyor muyum
+biliyor musun
+biliyor mu
+biliyor muyuz
+biliyor musunuz
+biliyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+bilmiyor muyum
+bilmiyor musun
+bilmiyor mu
+bilmiyor muyuz
+bilmiyor musunuz
+bilmiyorlar mı

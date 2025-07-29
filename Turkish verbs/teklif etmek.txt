@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+teklif ederim
+teklif edersin
+teklif eder
+teklif ederiz
+teklif edersiniz
+teklif ederler
+
+=NEGATIVE=
+teklif etmem
+teklif etmezsin
+teklif etmez
+teklif etmeyiz
+teklif etmezsiniz
+teklif etmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+teklif eder miyim
+teklif eder misin
+teklif eder mi
+teklif eder miyiz
+teklif eder misiniz
+teklif ederler mi
+
+=NEGATIVE INTERROGATIVE=
+teklif etmez miyim
+teklif etmez misin
+teklif etmez mi
+teklif etmez miyiz
+teklif etmez misiniz
+teklif etmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+teklif ediyorum
+teklif ediyorsun
+teklif ediyor
+teklif ediyoruz
+teklif ediyorsunuz
+teklif ediyorlar
+
+=NEGATIVE=
+teklif etmiyorum
+teklif etmiyorsun
+teklif etmiyor
+teklif etmiyoruz
+teklif etmiyorsunuz
+teklif etmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+teklif ediyor muyum
+teklif ediyor musun
+teklif ediyor mu
+teklif ediyor muyuz
+teklif ediyor musunuz
+teklif ediyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+teklif etmiyor muyum
+teklif etmiyor musun
+teklif etmiyor mu
+teklif etmiyor muyuz
+teklif etmiyor musunuz
+teklif etmiyorlar mı

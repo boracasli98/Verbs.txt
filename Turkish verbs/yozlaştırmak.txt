@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yozlaştırırım
+yozlaştırırsın
+yozlaştırır
+yozlaştırırız
+yozlaştırırsınız
+yozlaştırırlar
+
+=NEGATIVE=
+yozlaştırmam
+yozlaştırmazsın
+yozlaştırmaz
+yozlaştırmayız
+yozlaştırmazsınız
+yozlaştırmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yozlaştırır mıyım
+yozlaştırır mısın
+yozlaştırır mı
+yozlaştırır mıyız
+yozlaştırır mısınız
+yozlaştırırlar mı
+
+=NEGATIVE INTERROGATIVE=
+yozlaştırmaz mıyım
+yozlaştırmaz mısın
+yozlaştırmaz mı
+yozlaştırmaz mıyız
+yozlaştırmaz mısınız
+yozlaştırmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yozlaştırıyorum
+yozlaştırıyorsun
+yozlaştırıyor
+yozlaştırıyoruz
+yozlaştırıyorsunuz
+yozlaştırıyorlar
+
+=NEGATIVE=
+yozlaştırmıyorum
+yozlaştırmıyorsun
+yozlaştırmıyor
+yozlaştırmıyoruz
+yozlaştırmıyorsunuz
+yozlaştırmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yozlaştırıyor muyum
+yozlaştırıyor musun
+yozlaştırıyor mu
+yozlaştırıyor muyuz
+yozlaştırıyor musunuz
+yozlaştırıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yozlaştırmıyor muyum
+yozlaştırmıyor musun
+yozlaştırmıyor mu
+yozlaştırmıyor muyuz
+yozlaştırmıyor musunuz
+yozlaştırmıyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+eritirim
+eritirsin
+eritir
+eritiriz
+eritirsiniz
+eritirler
+
+=NEGATIVE=
+eritmem
+eritmezsin
+eritmez
+eritmeyiz
+eritmezsiniz
+eritmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+eritir miyim
+eritir misin
+eritir mi
+eritir miyiz
+eritir misiniz
+eritirler mi
+
+=NEGATIVE INTERROGATIVE=
+eritmez miyim
+eritmez misin
+eritmez mi
+eritmez miyiz
+eritmez misiniz
+eritmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+eritiyorum
+eritiyorsun
+eritiyor
+eritiyoruz
+eritiyorsunuz
+eritiyorlar
+
+=NEGATIVE=
+eritmiyorum
+eritmiyorsun
+eritmiyor
+eritmiyoruz
+eritmiyorsunuz
+eritmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+eritiyor muyum
+eritiyor musun
+eritiyor mu
+eritiyor muyuz
+eritiyor musunuz
+eritiyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+eritmiyor muyum
+eritmiyor musun
+eritmiyor mu
+eritmiyor muyuz
+eritmiyor musunuz
+eritmiyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+geçiririm
+geçirirsin
+geçirir
+geçiririz
+geçirirsiniz
+geçirirler
+
+=NEGATIVE=
+geçirmem
+geçirmezsin
+geçirmez
+geçirmeyiz
+geçirmezsiniz
+geçirmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+geçirir miyim
+geçirir misin
+geçirir mi
+geçirir miyiz
+geçirir misiniz
+geçirirler mi
+
+=NEGATIVE INTERROGATIVE=
+geçirmez miyim
+geçirmez misin
+geçirmez mi
+geçirmez miyiz
+geçirmez misiniz
+geçirmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+geçiriyorum
+geçiriyorsun
+geçiriyor
+geçiriyoruz
+geçiriyorsunuz
+geçiriyorlar
+
+=NEGATIVE=
+geçirmiyorum
+geçirmiyorsun
+geçirmiyor
+geçirmiyoruz
+geçirmiyorsunuz
+geçirmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+geçiriyor muyum
+geçiriyor musun
+geçiriyor mu
+geçiriyor muyuz
+geçiriyor musunuz
+geçiriyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+geçirmiyor muyum
+geçirmiyor musun
+geçirmiyor mu
+geçirmiyor muyuz
+geçirmiyor musunuz
+geçirmiyorlar mı

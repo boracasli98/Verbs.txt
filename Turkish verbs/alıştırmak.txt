@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+alıştırırım
+alıştırırsın
+alıştırır
+alıştırırız
+alıştırırsınız
+alıştırırlar
+
+=NEGATIVE=
+alıştırmam
+alıştırmazsın
+alıştırmaz
+alıştırmayız
+alıştırmazsınız
+alıştırmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+alıştırır mıyım
+alıştırır mısın
+alıştırır mı
+alıştırır mıyız
+alıştırır mısınız
+alıştırırlar mı
+
+=NEGATIVE INTERROGATIVE=
+alıştırmaz mıyım
+alıştırmaz mısın
+alıştırmaz mı
+alıştırmaz mıyız
+alıştırmaz mısınız
+alıştırmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+alıştırıyorum
+alıştırıyorsun
+alıştırıyor
+alıştırıyoruz
+alıştırıyorsunuz
+alıştırıyorlar
+
+=NEGATIVE=
+alıştırmıyorum
+alıştırmıyorsun
+alıştırmıyor
+alıştırmıyoruz
+alıştırmıyorsunuz
+alıştırmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+alıştırıyor muyum
+alıştırıyor musun
+alıştırıyor mu
+alıştırıyor muyuz
+alıştırıyor musunuz
+alıştırıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+alıştırmıyor muyum
+alıştırmıyor musun
+alıştırmıyor mu
+alıştırmıyor muyuz
+alıştırmıyor musunuz
+alıştırmıyorlar mı

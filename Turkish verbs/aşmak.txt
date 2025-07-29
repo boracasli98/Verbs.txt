@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+aşarım
+aşarsın
+aşar
+aşarız
+aşarsınız
+aşarlar
+
+=NEGATIVE=
+aşmam
+aşmazsın
+aşmaz
+aşmayız
+aşmazsınız
+aşmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+aşar mıyım
+aşar mısın
+aşar mı
+aşar mıyız
+aşar mısınız
+aşarlar mı
+
+=NEGATIVE INTERROGATIVE=
+aşmaz mıyım
+aşmaz mısın
+aşmaz mı
+aşmaz mıyız
+aşmaz mısınız
+aşmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+aşıyorum
+aşıyorsun
+aşıyor
+aşıyoruz
+aşıyorsunuz
+aşıyorlar
+
+=NEGATIVE=
+aşmıyorum
+aşmıyorsun
+aşmıyor
+aşmıyoruz
+aşmıyorsunuz
+aşmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+aşıyor muyum
+aşıyor musun
+aşıyor mu
+aşıyor muyuz
+aşıyor musunuz
+aşıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+aşmıyor muyum
+aşmıyor musun
+aşmıyor mu
+aşmıyor muyuz
+aşmıyor musunuz
+aşmıyorlar mı

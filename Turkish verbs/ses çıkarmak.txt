@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+ses çıkarırım
+ses çıkarırsın
+ses çıkarır
+ses çıkarırız
+ses çıkarırsınız
+ses çıkarırlar
+
+=NEGATIVE=
+ses çıkarmam
+ses çıkarmazsın
+ses çıkarmaz
+ses çıkarmayız
+ses çıkarmazsınız
+ses çıkarmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+ses çıkarır mıyım
+ses çıkarır mısın
+ses çıkarır mı
+ses çıkarır mıyız
+ses çıkarır mısınız
+ses çıkarırlar mı
+
+=NEGATIVE INTERROGATIVE=
+ses çıkarmaz mıyım
+ses çıkarmaz mısın
+ses çıkarmaz mı
+ses çıkarmaz mıyız
+ses çıkarmaz mısınız
+ses çıkarmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+ses çıkarıyorum
+ses çıkarıyorsun
+ses çıkarıyor
+ses çıkarıyoruz
+ses çıkarıyorsunuz
+ses çıkarıyorlar
+
+=NEGATIVE=
+ses çıkarmıyorum
+ses çıkarmıyorsun
+ses çıkarmıyor
+ses çıkarmıyoruz
+ses çıkarmıyorsunuz
+ses çıkarmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+ses çıkarıyor muyum
+ses çıkarıyor musun
+ses çıkarıyor mu
+ses çıkarıyor muyuz
+ses çıkarıyor musunuz
+ses çıkarıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+ses çıkarmıyor muyum
+ses çıkarmıyor musun
+ses çıkarmıyor mu
+ses çıkarmıyor muyuz
+ses çıkarmıyor musunuz
+ses çıkarmıyorlar mı

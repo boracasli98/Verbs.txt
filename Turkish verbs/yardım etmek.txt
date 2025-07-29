@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yardım ederim
+yardım edersin
+yardım eder
+yardım ederiz
+yardım edersiniz
+yardım ederler
+
+=NEGATIVE=
+yardım etmem
+yardım etmezsin
+yardım etmez
+yardım etmeyiz
+yardım etmezsiniz
+yardım etmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+yardım eder miyim
+yardım eder misin
+yardım eder mi
+yardım eder miyiz
+yardım eder misiniz
+yardım ederler mi
+
+=NEGATIVE INTERROGATIVE=
+yardım etmez miyim
+yardım etmez misin
+yardım etmez mi
+yardım etmez miyiz
+yardım etmez misiniz
+yardım etmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yardım ediyorum
+yardım ediyorsun
+yardım ediyor
+yardım ediyoruz
+yardım ediyorsunuz
+yardım ediyorlar
+
+=NEGATIVE=
+yardım etmiyorum
+yardım etmiyorsun
+yardım etmiyor
+yardım etmiyoruz
+yardım etmiyorsunuz
+yardım etmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yardım ediyor muyum
+yardım ediyor musun
+yardım ediyor mu
+yardım ediyor muyuz
+yardım ediyor musunuz
+yardım ediyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yardım etmiyor muyum
+yardım etmiyor musun
+yardım etmiyor mu
+yardım etmiyor muyuz
+yardım etmiyor musunuz
+yardım etmiyorlar mı

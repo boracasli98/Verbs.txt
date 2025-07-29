@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+karşılaşırım
+karşılaşırsın
+karşılaşır
+karşılaşırız
+karşılaşırsınız
+karşılaşırlar
+
+=NEGATIVE=
+karşılaşmam
+karşılaşmazsın
+karşılaşmaz
+karşılaşmayız
+karşılaşmazsınız
+karşılaşmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+karşılaşır mıyım
+karşılaşır mısın
+karşılaşır mı
+karşılaşır mıyız
+karşılaşır mısınız
+karşılaşırlar mı
+
+=NEGATIVE INTERROGATIVE=
+karşılaşmaz mıyım
+karşılaşmaz mısın
+karşılaşmaz mı
+karşılaşmaz mıyız
+karşılaşmaz mısınız
+karşılaşmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+karşılaşıyorum
+karşılaşıyorsun
+karşılaşıyor
+karşılaşıyoruz
+karşılaşıyorsunuz
+karşılaşıyorlar
+
+=NEGATIVE=
+karşılaşmıyorum
+karşılaşmıyorsun
+karşılaşmıyor
+karşılaşmıyoruz
+karşılaşmıyorsunuz
+karşılaşmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+karşılaşıyor muyum
+karşılaşıyor musun
+karşılaşıyor mu
+karşılaşıyor muyuz
+karşılaşıyor musunuz
+karşılaşıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+karşılaşmıyor muyum
+karşılaşmıyor musun
+karşılaşmıyor mu
+karşılaşmıyor muyuz
+karşılaşmıyor musunuz
+karşılaşmıyorlar mı

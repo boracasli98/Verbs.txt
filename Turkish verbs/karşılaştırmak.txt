@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+karşılaştırırım
+karşılaştırırsın
+karşılaştırır
+karşılaştırırız
+karşılaştırırsınız
+karşılaştırırlar
+
+=NEGATIVE=
+karşılaştırmam
+karşılaştırmazsın
+karşılaştırmaz
+karşılaştırmayız
+karşılaştırmazsınız
+karşılaştırmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+karşılaştırır mıyım
+karşılaştırır mısın
+karşılaştırır mı
+karşılaştırır mıyız
+karşılaştırır mısınız
+karşılaştırırlar mı
+
+=NEGATIVE INTERROGATIVE=
+karşılaştırmaz mıyım
+karşılaştırmaz mısın
+karşılaştırmaz mı
+karşılaştırmaz mıyız
+karşılaştırmaz mısınız
+karşılaştırmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+karşılaştırıyorum
+karşılaştırıyorsun
+karşılaştırıyor
+karşılaştırıyoruz
+karşılaştırıyorsunuz
+karşılaştırıyorlar
+
+=NEGATIVE=
+karşılaştırmıyorum
+karşılaştırmıyorsun
+karşılaştırmıyor
+karşılaştırmıyoruz
+karşılaştırmıyorsunuz
+karşılaştırmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+karşılaştırıyor muyum
+karşılaştırıyor musun
+karşılaştırıyor mu
+karşılaştırıyor muyuz
+karşılaştırıyor musunuz
+karşılaştırıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+karşılaştırmıyor muyum
+karşılaştırmıyor musun
+karşılaştırmıyor mu
+karşılaştırmıyor muyuz
+karşılaştırmıyor musunuz
+karşılaştırmıyorlar mı

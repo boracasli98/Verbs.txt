@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+görmezlikten gelirim
+görmezlikten gelirsin
+görmezlikten gelir
+görmezlikten geliriz
+görmezlikten gelirsiniz
+görmezlikten gelirler
+
+=NEGATIVE=
+görmezlikten gelmem
+görmezlikten gelmezsin
+görmezlikten gelmez
+görmezlikten gelmeyiz
+görmezlikten gelmezsiniz
+görmezlikten gelmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+görmezlikten gelir miyim
+görmezlikten gelir misin
+görmezlikten gelir mi
+görmezlikten gelir miyiz
+görmezlikten gelir misiniz
+görmezlikten gelirler mi
+
+=NEGATIVE INTERROGATIVE=
+görmezlikten gelmez miyim
+görmezlikten gelmez misin
+görmezlikten gelmez mi
+görmezlikten gelmez miyiz
+görmezlikten gelmez misiniz
+görmezlikten gelmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+görmezlikten geliyorum
+görmezlikten geliyorsun
+görmezlikten geliyor
+görmezlikten geliyoruz
+görmezlikten geliyorsunuz
+görmezlikten geliyorlar
+
+=NEGATIVE=
+görmezlikten gelmiyorum
+görmezlikten gelmiyorsun
+görmezlikten gelmiyor
+görmezlikten gelmiyoruz
+görmezlikten gelmiyorsunuz
+görmezlikten gelmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+görmezlikten geliyor muyum
+görmezlikten geliyor musun
+görmezlikten geliyor mu
+görmezlikten geliyor muyuz
+görmezlikten geliyor musunuz
+görmezlikten geliyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+görmezlikten gelmiyor muyum
+görmezlikten gelmiyor musun
+görmezlikten gelmiyor mu
+görmezlikten gelmiyor muyuz
+görmezlikten gelmiyor musunuz
+görmezlikten gelmiyorlar mı

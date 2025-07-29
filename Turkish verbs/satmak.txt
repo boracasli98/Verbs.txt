@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+satarım
+satarsın
+satar
+satarız
+satarsınız
+satarlar
+
+=NEGATIVE=
+satmam
+satmazsın
+satmaz
+satmayız
+satmazsınız
+satmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+satar mıyım
+satar mısın
+satar mı
+satar mıyız
+satar mısınız
+satarlar mı
+
+=NEGATIVE INTERROGATIVE=
+satmaz mıyım
+satmaz mısın
+satmaz mı
+satmaz mıyız
+satmaz mısınız
+satmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+satıyorum
+satıyorsun
+satıyor
+satıyoruz
+satıyorsunuz
+satıyorlar
+
+=NEGATIVE=
+satmıyorum
+satmıyorsun
+satmıyor
+satmıyoruz
+satmıyorsunuz
+satmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+satıyor muyum
+satıyor musun
+satıyor mu
+satıyor muyuz
+satıyor musunuz
+satıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+satmıyor muyum
+satmıyor musun
+satmıyor mu
+satmıyor muyuz
+satmıyor musunuz
+satmıyorlar mı
