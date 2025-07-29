@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+j'amnistie
+tu amnisties
+il/elle/on amnistie
+nous amnistions
+vous amnistiez
+ils/elles amnistient

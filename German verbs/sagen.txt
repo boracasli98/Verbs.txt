@@ -1,0 +1,23 @@
+==PRESENT TENSE==
+ich sage
+du sagst
+er/sie/es sagt
+wir sagen
+ihr sagt
+sie/Sie sagen
+
+==PAST SIMPLE TENSE==
+ich sagte
+du sagtest
+er/sie/es sagte
+wir sagten
+ihr sagtet
+sie/Sie sagten
+
+==PRESENT PERFECT==
+ich habe gesagt
+du hast gesagt
+er/sie/es hat gesagt
+wir haben gesagt
+ihr habt gesagt
+sie/Sie haben gesagt

@@ -1,0 +1,15 @@
+==INDEFINITE PRESENT TENSE==
+tudok
+tudsz
+tud
+tudunk
+tudtok
+tudnak
+
+==DEFINITE PRESENT TENSE==
+tudom
+tudod
+tudja
+tudjuk
+tudjátok
+tudják

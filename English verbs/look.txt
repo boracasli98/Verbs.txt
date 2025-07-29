@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I look
+you look
+he/she/it looks
+we look
+you look
+they look
+
+==PAST TENSE==
+I looked
+you looked
+he/she/it looked
+we looked
+you looked
+they looked

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je désire
+tu désires
+il/elle/on désire
+nous désirons
+vous désirez
+ils/elles désirent

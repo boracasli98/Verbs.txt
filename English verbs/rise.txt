@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I rise
+you rise
+he/she/it rises
+we rise
+you rise
+they rise
+
+==PRESENT CONTINUOUS TENSE==
+I am rising
+you are rising
+he/she/it is rising
+we are rising
+you are rising
+they are rising
+
+==PAST TENSE==
+I rose
+you rose
+he/she/it rose
+we rose
+you rose
+they rose
+
+==PRESENT PERFECT==
+I have risen
+you have risen
+he/she/it has risen
+we have risen
+you have risen
+they have risen
+
+==PAST PERFECT==
+I had risen
+you had risen
+he/she/it had risen
+we had risen
+you had risen
+they had risen

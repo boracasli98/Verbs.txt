@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I appear
+you appear
+he/she/it appears
+we appear
+you appear
+they appear
+
+==PRESENT CONTINUOUS TENSE==
+I am appearing
+you are appearing
+he/she/it is appearing
+we are appearing
+you are appearing
+they are appearing
+
+==PAST TENSE==
+I appeared
+you appeared
+he/she/it appeared
+we appeared
+you appeared
+they appeared
+
+==PRESENT PERFECT==
+I have appeared
+you have appeared
+he/she/it has appeared
+we have appeared
+you have appeared
+they have appeared
+
+==PAST PERFECT==
+I had appeared
+you had appeared
+he/she/it had appeared
+we had appeared
+you had appeared
+they had appeared

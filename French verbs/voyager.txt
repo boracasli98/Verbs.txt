@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je voyage
+tu voyages
+il/elle/on voyage
+nous voyageons
+vous voyagez
+ils/elles voyagent

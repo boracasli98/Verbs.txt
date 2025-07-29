@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I am pleased
+you are pleased
+he/she/it is pleased
+we are pleased
+you are pleased
+they are pleased
+
+==PRESENT CONTINUOUS TENSE==
+I am being pleased
+you are being pleased
+he/she/it is being pleased
+we are being pleased
+you are being pleased
+they are being pleased
+
+==PAST TENSE==
+I was pleased
+you were pleased
+he/she/it was pleased
+we were pleased
+you were pleased
+they were pleased
+
+==PRESENT PERFECT==
+I have been pleased
+you have been pleased
+he/she/it has been pleased
+we have been pleased
+you have been pleased
+they have been pleased
+
+==PAST PERFECT==
+I had been pleased
+you had been pleased
+he/she/it had been pleased
+we had been pleased
+you had been pleased
+they had been pleased

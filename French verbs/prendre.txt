@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je prends
+tu prends
+il/elle/on prend
+nous prenons
+vous prenez
+ils/elles prennent

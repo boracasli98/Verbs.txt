@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I agree
+you agree
+he/she/it agrees
+we agree
+you agree
+they agree
+
+==PRESENT CONTINUOUS TENSE==
+I am agreeing
+you are agreeing
+he/she/it is agreeing
+we are agreeing
+you are agreeing
+they are agreeing
+
+==PAST TENSE==
+I agreed
+you agreed
+he/she/it agreed
+we agreed
+you agreed
+they agreed
+
+==PRESENT PERFECT==
+I have agreed
+you have agreed
+he/she/it has agreed
+we have agreed
+you have agreed
+they have agreed
+
+==PAST PERFECT==
+I had agreed
+you had agreed
+he/she/it had agreed
+we had agreed
+you had agreed
+they had agreed

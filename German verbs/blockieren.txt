@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich blockiere
+du blockierst
+er/sie/es blockiert
+wir blockieren
+ihr blockiert
+sie/Sie blockieren

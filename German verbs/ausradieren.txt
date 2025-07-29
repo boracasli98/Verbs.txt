@@ -1,0 +1,23 @@
+==PRESENT TENSE==
+ich radiere aus
+du radierst aus
+er/sie/es radiert aus
+wir radieren aus
+ihr radiert aus
+sie/Sie radieren aus
+
+==PRESENT PERFECT==
+ich habe ausradiert
+du hast ausradiert
+er/sie/es hat ausradiert
+wir haben ausradiert
+ihr habt ausradiert
+sie/Sie haben ausradiert
+
+==PAST PERFECT==
+ich hatte ausradiert
+du hattest ausradiert
+er/sie/es hatte ausradiert
+wir hatten ausradiert
+ihr hattet ausradiert
+sie/Sie hatten ausradiert

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je dis
+tu dis
+il/elle/on dit
+nous disons
+vous disez
+ils/elles disent

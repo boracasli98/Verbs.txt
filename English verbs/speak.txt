@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I speak
+you speak
+he/she/it speaks
+we speak
+you speak
+they speak
+
+==PAST TENSE==
+I spoke
+you spoke
+he/she/it spoke
+we spoke
+you spoke
+they spoke

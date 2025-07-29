@@ -1,0 +1,39 @@
+==PRESENT SIMPLE TENSE==
+I deal
+you deal
+he/she/it deals
+we deal
+you deal
+they deal
+
+==PRESENT CONTINUOUS TENSE==
+I am dealing
+you are dealing
+he/she/it is dealing
+we are dealing
+you are dealing
+they are dealing
+
+==PAST TENSE==
+I dealt
+you dealt
+he/she/it dealt
+we dealt
+you dealt
+they dealt
+
+==PRESENT PERFECT==
+I have dealt
+you have dealt
+he/she/it has dealt
+we have dealt
+you have dealt
+they have dealt
+
+==PAST PERFECT==
+I has dealt
+you has dealt
+he/she/it has dealt
+we has dealt
+you has dealt
+they has dealt

@@ -1,0 +1,23 @@
+==PRESENT TENSE==
+ich gehe
+du gehst
+er/sie/es geht
+wir gehen
+ihr geht
+sie/Sie gehen
+
+==PRESENT PERFECT==
+ich bin gegangen
+du bist gegangen
+er/sie/es ist gegangen
+wir sind gegangen
+ihr seid gegangen
+sie/Sie sind gegangen
+
+==PAST PERFECT==
+ich war gegangen
+du warst gegangen
+er/sie/es war gegangen
+wir waren gegangen
+ihr wart gegangen
+sie/Sie waren gegangen

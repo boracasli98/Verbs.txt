@@ -1,0 +1,23 @@
+==PRESENT TENSE==
+ich esse
+du isst
+er/sie/es isst
+wir essen
+ihr esst
+sie/Sie essen
+
+==PRESENT PERFECT==
+ich habe gegessen
+du hast gegessen
+er/sie/es hat gegessen
+wir haben gegessen
+ihr habt gegessen
+sie/Sie haben gegessen
+
+==PAST PERFECT==
+ich hatte gegessen
+du hattest gegessen
+er/sie/es hatte gegessen
+wir hatten gegessen
+ihr hattet gegessen
+sie/Sie hatten gegessen

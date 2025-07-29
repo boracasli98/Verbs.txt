@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I arise
+you arise
+he/she/it arises
+we arise
+you arise
+they arise
+
+==PRESENT CONTINUOUS TENSE==
+I am arising
+you are arising
+he/she/it is arising
+we are arising
+you are arising
+they are arising
+
+==PAST TENSE==
+I arose
+you arose
+he/she/it arose
+we arose
+you arose
+they arose
+
+==PRESENT PERFECT==
+I have arisen
+you have arisen
+he/she/it has arisen
+we have arisen
+you have arisen
+they have arisen
+
+==PAST PERFECT==
+I had arisen
+you had arisen
+he/she/it had arisen
+we had arisen
+you had arisen
+they had arisen

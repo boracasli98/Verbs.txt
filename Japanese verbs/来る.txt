@@ -1,0 +1,20 @@
+==PRESENT TENSE==
+=AFFIRMATIVE=
+来る(くる) / 来ます(きます)
+
+=NEGATIVE=
+来ない(こない) / 来ません(きません)
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+来ている(きている) / 来ています(きています)
+
+=NEGATIVE=
+来ていない(きていない) / 来ていません(きていません)
+
+==PAST TENSE==
+=AFFIRMATIVE=
+来た(きた) / 来ました(きました)
+
+=NEGATIVE=
+来なかった(こなかった) / 来ませんでした(きませんでした)

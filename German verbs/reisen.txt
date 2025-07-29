@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich reise
+du reist
+er/sie/es reist
+wir reisen
+ihr reist
+sie/Sie reisen

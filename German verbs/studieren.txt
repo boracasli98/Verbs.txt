@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich studiere
+du studierst
+er/sie/es studiert
+wir studieren
+ihr studiert
+sie/Sie studieren

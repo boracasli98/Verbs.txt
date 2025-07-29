@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je croîs
+tu croîs
+il/elle/on croît
+nous croissons
+vous croissez
+ils/elles croissent

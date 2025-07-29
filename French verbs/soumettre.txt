@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je soumets
+tu soumets
+il/elle/on soumet
+nous soumettons
+vous soumettez
+ils/elles soumettent

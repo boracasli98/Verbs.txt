@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I express
+you express
+he/she/it expresses
+we express
+you express
+they express
+
+==PRESENT CONTINUOUS TENSE==
+I am expressing
+you are expressing
+he/she/it is expressing
+we are expressing
+you are expressing
+they are expressing
+
+==PAST TENSE==
+I expressed
+you expressed
+he/she/it expressed
+we expressed
+you expressed
+they expressed
+
+==PRESENT PERFECT==
+I have expressed
+you have expressed
+he/she/it has expressed
+we have expressed
+you have expressed
+they have expressed
+
+==PAST PERFECT==
+I had expressed
+you had expressed
+he/she/it had expressed
+we had expressed
+you had expressed
+they had expressed

@@ -1,0 +1,23 @@
+==PRESENT TENSE==
+ich mache auf
+du machst auf
+er/sie/es macht auf
+wir machen auf
+ihr macht auf
+sie/Sie machen auf
+
+==PRESENT PERFECT==
+ich habe aufgemacht
+du hast aufgemacht
+er/sie/es hat aufgemacht
+wir haben aufgemacht
+ihr habt aufgemacht
+sie/Sie haben aufgemacht
+
+==PAST PERFECT==
+ich hatte aufgemacht
+du hattest aufgemacht
+er/sie/es hatte aufgemacht
+wir hatten aufgemacht
+ihr hattet aufgemacht
+sie/Sie hatten aufgemacht

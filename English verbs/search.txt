@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I search
+you search
+he/she/it searches
+we search
+you search
+they search
+
+==PRESENT CONTINUOUS TENSE==
+I am searching
+you are searching
+he/she/it is searching
+we are searching
+you are searching
+they are searching
+
+==PAST TENSE==
+I searched
+you searched
+he/she/it searched
+we searched
+you searched
+they searched
+
+==PRESENT PERFECT==
+I have searched
+you have searched
+he/she/it has searched
+we have searched
+you have searched
+they have searched
+
+==PAST PERFECT==
+I had searched
+you had searched
+he/she/it had searched
+we had searched
+you had searched
+they had searched

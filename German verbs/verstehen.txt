@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich verstehe
+du verstehst
+er/sie/es versteht
+wir verstehen
+ihr versteht
+sie/Sie verstehen

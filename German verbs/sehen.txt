@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+ich sehe
+du siehst
+er/sie/es sieht
+wir sehen
+ihr seht
+sie/Sie sehen
+
+==PAST SIMPLE TENSE==
+ich sah
+du sahst
+er/sie/es sah
+wir sahen
+ihr saht
+sie/Sie sahen

@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I generate
+you generate
+he/she/it generates
+we generate
+you generate
+they generate
+
+==PAST TENSE==
+I generated
+you generated
+he/she/it generated
+we generated
+you generated
+they generated

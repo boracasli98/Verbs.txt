@@ -1,0 +1,39 @@
+==PRESENT SIMPLE TENSE==
+I read
+you read
+he/she/it reads
+we read
+you read
+they read
+
+==PRESENT CONTINUOUS TENSE==
+I am reading
+you are reading
+he/she/it is reading
+we are reading
+you are reading
+they are reading
+
+==PAST TENSE==
+I read
+you read
+he/she/it read
+we read
+you read
+they read
+
+==PRESENT PERFECT==
+I have read
+you have read
+he/she/it has read
+we have read
+you have read
+they have read
+
+==PAST PERFECT==
+I had read
+you had read
+he/she/it had read
+we had read
+you had read
+they had read

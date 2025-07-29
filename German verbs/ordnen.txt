@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich ordne
+du ordnest
+er/sie/es ordnet
+wir ordnen
+ihr ordnet
+sie/Sie ordnen

@@ -1,0 +1,20 @@
+==PRESENT TENSE==
+=AFFIRMATIVE=
+死ぬ(しぬ) / 死にます(しにます)
+
+=NEGATIVE=
+死なない(しなない) / 死にません(しにません)
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+死んでいる(しんでいる) / 死んでいます(しんでいます)
+
+=NEGATIVE=
+死んでいない(しんでいない) / 死んでいません(しんでいません)
+
+==PAST TENSE==
+=AFFIRMATIVE=
+死んだ(しんだ) / 死にました(しにました)
+
+=NEGATIVE=
+死ななかった(しななかった) / 死にませんでした(しにませんでした)

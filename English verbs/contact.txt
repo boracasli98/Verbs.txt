@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I contact
+you contact
+he/she/it contacts
+we contact
+you contact
+they contact
+
+==PRESENT CONTINUOUS TENSE==
+I am contacting
+you are contacting
+he/she/it is contacting
+we are contacting
+you are contacting
+they are contacting
+
+==PAST TENSE==
+I contacted
+you contacted
+he/she/it contacted
+we contacted
+you contacted
+they contacted
+
+==PRESENT PERFECT==
+I have contacted
+you have contacted
+he/she/it has contacted
+we have contacted
+you have contacted
+they have contacted
+
+==PAST PERFECT==
+I had contacted
+you had contacted
+he/she/it had contacted
+we had contacted
+you had contacted
+they had contacted

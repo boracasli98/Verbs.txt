@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+ich bringe bei
+du bringst bei
+er/sie/es bringt bei
+wir bringen bei
+ihr bringt bei
+sie/Sie bringen bei
+
+==PRESENT PERFECT==
+ich habe beigebracht
+du hast beigebracht
+er/sie/es hat beigebracht
+wir haben beigebracht
+ihr habt beigebracht
+sie/Sie haben beigebracht

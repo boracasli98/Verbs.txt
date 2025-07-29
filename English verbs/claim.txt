@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I claim
+you claim
+he/she/it claims
+we claim
+you claim
+they claim
+
+==PRESENT CONTINUOUS TENSE==
+I am claiming
+you are claiming
+he/she/it is claiming
+we are claiming
+you are claiming
+they are claiming
+
+==PAST TENSE==
+I claimed
+you claimed
+he/she/it claimed
+we claimed
+you claimed
+they claimed
+
+==PRESENT PERFECT==
+I have claimed
+you have claimed
+he/she/it has claimed
+we have claimed
+you have claimed
+they have claimed
+
+==PAST PERFECT==
+I had claimed
+you had claimed
+he/she/it had claimed
+we had claimed
+you had claimed
+they had claimed

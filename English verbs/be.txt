@@ -1,0 +1,15 @@
+==PRESENT TENSE==
+I am
+you are
+he/she/it is
+we are
+you are
+they are
+
+==PAST TENSE==
+I was
+you were
+he/she/it was
+we were
+you were
+they were

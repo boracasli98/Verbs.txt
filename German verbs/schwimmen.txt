@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich schwimme
+du schwimmst
+er/sie/es schwimmt
+wir schwimmen
+ihr schwimmt
+sie/Sie schwimmen

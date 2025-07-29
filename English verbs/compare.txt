@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I emerge
+you emerge
+he/she/it emerges
+we emerge
+you emerge
+they emerge
+
+==PRESENT CONTINUOUS TENSE==
+I am emerging
+you are emerging
+he/she/it is emerging
+we are emerging
+you are emerging
+they are emerging
+
+==PAST TENSE==
+I emerged
+you emerged
+he/she/it emerged
+we emerged
+you emerged
+they emerged
+
+==PRESENT PERFECT==
+I have emerged
+you have emerged
+he/she/it has emerged
+we have emerged
+you have emerged
+they have emerged
+
+==PAST PERFECT==
+I had emerged
+you had emerged
+he/she/it had emerged
+we had emerged
+you had emerged
+they had emerged

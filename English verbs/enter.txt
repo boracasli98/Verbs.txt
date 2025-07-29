@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I enter
+you enter
+he/she/it enters
+we enter
+you enter
+they enter
+
+==PRESENT CONTINUOUS TENSE==
+I am entering
+you are entering
+he/she/it is entering
+we are entering
+you are entering
+they are entering
+
+==PAST TENSE==
+I entered
+you entered
+he/she/it entered
+we entered
+you entered
+they entered
+
+==PRESENT PERFECT==
+I have entered
+you have entered
+he/she/it has entered
+we have entered
+you have entered
+they have entered
+
+==PAST PERFECT==
+I had entered
+you had entered
+he/she/it had entered
+we had entered
+you had entered
+they had entered

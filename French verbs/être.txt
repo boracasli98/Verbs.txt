@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+je suis
+tu es
+il/elle/on est
+nous sommes
+vous êtes
+ils/elles sont

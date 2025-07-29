@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I soap
+you soap
+he/she/it soaps
+we soap
+you soap
+they soap
+
+==PRESENT CONTINUOUS TENSE==
+I am soaping
+you are soaping
+he/she/it is soaping
+we are soaping
+you are soaping
+they are soaping
+
+==PAST TENSE==
+I soaped
+you soaped
+he/she/it soaped
+we soaped
+you soaped
+they soaped
+
+==PRESENT PERFECT==
+I have soaped
+you have soaped
+he/she/it has soaped
+we have soaped
+you have soaped
+they have soaped
+
+==PAST PERFECT==
+I had soaped
+you had soaped
+he/she/it had soaped
+we had soaped
+you had soaped
+they had soaped

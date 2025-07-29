@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich lerne
+du lernst
+er/sie/es lernt
+wir lernen
+ihr lernt
+sie/Sie lernen

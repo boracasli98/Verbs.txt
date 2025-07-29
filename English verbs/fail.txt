@@ -1,0 +1,39 @@
+==PRESENT TENSE==
+I fail
+you fail
+he/she/it fails
+we fail
+you fail
+they fail
+
+==PRESENT CONTINUOUS TENSE==
+I am failing
+you are failing
+he/she/it is failing
+we are failing
+you are failing
+they are failing
+
+==PAST TENSE==
+I failed
+you failed
+he/she/it failed
+we failed
+you failed
+they failed
+
+==PRESENT PERFECT==
+I have failed
+you have failed
+he/she/it has failed
+we have failed
+you have failed
+they have failed
+
+==PAST PERFECT==
+I had failed
+you had failed
+he/she/it had failed
+we had failed
+you had failed
+they had failed

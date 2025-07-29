@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+j'refuse
+tu refuses
+il/elle/on refuse
+nous refusons
+vous refusez
+ils/elles refusent

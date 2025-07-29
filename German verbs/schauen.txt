@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+ich schaue
+du schaust
+er/sie/es schaut
+wir schauen
+ihr schaut
+sie/Sie schauen

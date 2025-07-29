@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+j'attaque
+tu attaques
+il/elle/on attaque
+nous attaquons
+vous attaquez
+ils/elles attaquent
