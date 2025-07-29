@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo tengo
+tú tienes
+él/ella/usted tiene
+nosotros/nosotras tenemos
+vosotros/vosotras tenéis
+ellos/ellas/ustedes tienen

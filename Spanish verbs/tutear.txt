@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo tuteo
+tú tuteas
+él/ella/usted tutea
+nosotros/nosotras tuteamos
+vosotros/vosotras tuteáis
+ellos/ellas/ustedes tutean

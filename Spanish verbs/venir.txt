@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo vengo
+tú vienes
+él/ella/usted viene
+nosotros/nosotras venimos
+vosotros/vosotras venís
+ellos/ellas/ustedes vienen

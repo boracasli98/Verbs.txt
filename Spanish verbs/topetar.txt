@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo topeto
+tú topetas
+él/ella/usted topeta
+nosotros/nosotras topetamos
+vosotros/vosotras topetáis
+ellos/ellas/ustedes topetan

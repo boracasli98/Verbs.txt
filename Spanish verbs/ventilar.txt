@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo ventilo
+tú ventilas
+él/ella/usted ventila
+nosotros/nosotras ventilamos
+vosotros/vosotras ventiláis
+ellos/ellas/ustedes ventilan

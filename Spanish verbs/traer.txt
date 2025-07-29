@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo traigo
+tú traes
+él/ella/usted trae
+nosotros/nosotras traemos
+vosotros/vosotras traéis
+ellos/ellas/ustedes traen

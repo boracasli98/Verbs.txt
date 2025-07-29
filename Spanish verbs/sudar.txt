@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo sudo
+tú sudas
+él/ella/usted suda
+nosotros/nosotras sudamos
+vosotros/vosotras sudáis
+ellos/ellas/ustedes sudan
