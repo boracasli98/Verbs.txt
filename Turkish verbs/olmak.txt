@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+olurum
+olursun
+olur
+oluruz
+olursunuz
+olurlar
+
+=NEGATIVE=
+olmam
+olmazsın
+olmaz
+olmayız
+olmazsınız
+olmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+olur muyum
+olur musun
+olur mu
+olur muyuz
+olur musunuz
+olurlar mı
+
+=NEGATIVE INTERROGATIVE=
+olmaz muyum
+olmaz musun
+olmaz mı
+olmaz muyuz
+olmaz musunuz
+olmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+oluyorum
+oluyorsun
+oluyor
+oluyoruz
+oluyorsunuz
+oluyorlar
+
+=NEGATIVE=
+olmuyorum
+olmuyorsun
+olmuyor
+olmuyoruz
+olmuyorsunuz
+olmuyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+oluyor muyum
+oluyor musun
+oluyor mu
+oluyor muyuz
+oluyor musunuz
+oluyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+olmuyor muyum
+olmuyor musun
+olmuyor mu
+olmuyor muyuz
+olmuyor musunuz
+olmuyorlar mı

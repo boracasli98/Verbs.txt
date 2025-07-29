@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo digo
+tú dices
+él/ella/usted dice
+nosotros/nosotras decimos
+vosotros/vosotras decís
+ellos/ellas/ustedes dicen

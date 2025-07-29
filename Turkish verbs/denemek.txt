@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+denerim
+denersin
+dener
+deneriz
+denersiniz
+denerler
+
+=NEGATIVE=
+denemem
+denemezsin
+denemez
+denemeyiz
+denemezsiniz
+denemezler
+
+=AFFIRMATIVE INTERROGATIVE=
+dener miyim
+dener misin
+dener mi
+dener miyiz
+dener misiniz
+denerler mi
+
+=NEGATIVE INTERROGATIVE=
+denemez miyim
+denemez misin
+denemez mi
+denemez miyiz
+denemez misiniz
+denemezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+deniyorum
+deniyorsun
+deniyor
+deniyoruz
+deniyorsunuz
+deniyorlar
+
+=NEGATIVE=
+denemiyorum
+denemiyorsun
+denemiyor
+denemiyoruz
+denemiyorsunuz
+denemiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+deniyor muyum
+deniyor musun
+deniyor mu
+deniyor muyuz
+deniyor musunuz
+deniyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+denemiyor muyum
+denemiyor musun
+denemiyor mu
+denemiyor muyuz
+denemiyor musunuz
+denemiyorlar mı

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+eu sou
+tu és
+ele/ela/você é
+nós somos
+vós sois
+eles/elas/vocês são

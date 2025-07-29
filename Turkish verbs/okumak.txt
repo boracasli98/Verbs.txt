@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+okurum
+okursun
+okur
+okuruz
+okursunuz
+okurlar
+
+=NEGATIVE=
+okumam
+okumazsın
+okumaz
+okumayız
+okumazsınız
+okumazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+okur muyum
+okur musun
+okur mu
+okur muyuz
+okur musunuz
+okurlar mı
+
+=NEGATIVE INTERROGATIVE=
+okumaz mıyım
+okumaz mısın
+okumaz mı
+okumaz mıyız
+okumaz mısınız
+okumazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+okuyorum
+okuyorsun
+okuyor
+okuyoruz
+okuyorsunuz
+okuyorlar
+
+=NEGATIVE=
+okumuyorum
+okumuyorsun
+okumuyor
+okumuyoruz
+okumuyorsunuz
+okumuyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+okuyor muyum
+okuyor musun
+okuyor mu
+okuyor muyuz
+okuyor musunuz
+okuyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+okumuyor muyum
+okumuyor musun
+okumuyor mu
+okumuyor muyuz
+okumuyor musunuz
+okumuyorlar mı

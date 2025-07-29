@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me establezco
+tú te estableces
+él/ella/usted se establece
+nosotros/nosotras nos establecemos
+vosotros/vosotras os establecéis
+ellos/ellas/ustedes se establecen

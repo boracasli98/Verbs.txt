@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+eklerim
+eklersin
+ekler
+ekleriz
+eklersiniz
+eklerler
+
+=NEGATIVE=
+eklemem
+eklemezsin
+eklemez
+eklemeyiz
+eklemezsiniz
+eklemezler
+
+=AFFIRMATIVE INTERROGATIVE=
+ekler miyim
+ekler misin
+ekler mi
+ekler miyiz
+ekler misiniz
+eklerler mi
+
+=NEGATIVE INTERROGATIVE=
+eklemez miyim
+eklemez misin
+eklemez mi
+eklemez miyiz
+eklemez misiniz
+eklemezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+ekliyorum
+ekliyorsun
+ekliyor
+ekliyoruz
+ekliyorsunuz
+ekliyorlar
+
+=NEGATIVE=
+eklemiyorum
+eklemiyorsun
+eklemiyor
+eklemiyoruz
+eklemiyorsunuz
+eklemiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+ekliyor muyum
+ekliyor musun
+ekliyor mu
+ekliyor muyuz
+ekliyor musunuz
+ekliyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+eklemiyor muyum
+eklemiyor musun
+eklemiyor mu
+eklemiyor muyuz
+eklemiyor musunuz
+eklemiyorlar mı

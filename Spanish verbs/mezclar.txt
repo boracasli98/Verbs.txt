@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo mezclo
+tú mezclas
+él/ella/usted mezcla
+nosotros/nosotras mezclamos
+vosotros/vosotras mezcláis
+ellos/ellas/ustedes mezclan

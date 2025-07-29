@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+giderim
+gidersin
+gider
+gideriz
+gidersiniz
+giderler
+
+=NEGATIVE=
+gitmem
+gitmezsin
+gitmez
+gitmeyiz
+gitmezsiniz
+gitmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+gider miyim
+gider misin
+gider mi
+gider miyiz
+gider misiniz
+giderler mi
+
+=NEGATIVE INTERROGATIVE=
+gitmez miyim
+gitmez misin
+gitmez mi
+gitmez miyiz
+gitmez misiniz
+gitmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+gidiyorum
+gidiyorsun
+gidiyor
+gidiyoruz
+gidiyorsunuz
+gidiyorlar
+
+=NEGATIVE=
+gitmiyorum
+gitmiyorsun
+gitmiyor
+gitmiyoruz
+gitmiyorsunuz
+gitmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+gidiyor muyum
+gidiyor musun
+gidiyor mu
+gidiyor muyuz
+gidiyor musunuz
+gidiyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+gitmiyor muyum
+gitmiyor musun
+gitmiyor mu
+gitmiyor muyuz
+gitmiyor musunuz
+gitmiyorlar mı

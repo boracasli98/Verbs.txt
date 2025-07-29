@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo cuesto
+tú cuestas
+él/ella/usted cuesta
+nosotros/nosotras costamos
+vosotros/vosotras costáis
+ellos/ellas/ustedes cuestan

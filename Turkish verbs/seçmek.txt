@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+seçerim
+seçersin
+seçer
+seçeriz
+seçersiniz
+seçerler
+
+=NEGATIVE=
+seçmem
+seçmezsin
+seçmez
+seçmeyiz
+seçmezsiniz
+seçmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+seçer miyim
+seçer misin
+seçer mi
+seçer miyiz
+seçer misiniz
+seçerler mi
+
+=NEGATIVE INTERROGATIVE=
+seçmez miyim
+seçmez misin
+seçmez mi
+seçmez miyiz
+seçmez misiniz
+seçmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+seçiyorum
+seçiyorsun
+seçiyor
+seçiyoruz
+seçiyorsunuz
+seçiyorlar
+
+=NEGATIVE=
+seçmiyorum
+seçmiyorsun
+seçmiyor
+seçmiyoruz
+seçmiyorsunuz
+seçmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+seçiyor muyum
+seçiyor musun
+seçiyor mu
+seçiyor muyuz
+seçiyor musunuz
+seçiyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+seçmiyor muyum
+seçmiyor musun
+seçmiyor mu
+seçmiyor muyuz
+seçmiyor musunuz
+seçmiyorlar mı

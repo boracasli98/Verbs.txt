@@ -1,0 +1,23 @@
+==PRESENT TENSE==
+jag planerar
+du planerar
+han/hon planerar
+vi planerar
+ni planerar
+de planerar
+
+==PAST TENSE==
+jag planerade
+du planerade
+han/hon planerade
+vi planerade
+ni planerade
+de planerade
+
+==PRESENT PERFECT==
+jag har planerat
+du har planerat
+han/hon har planerat
+vi har planerat
+ni har planerat
+de har planerat

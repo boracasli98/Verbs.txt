@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo sueno
+tú suenas
+él/ella/usted suena
+nosotros/nosotras sonamos
+vosotros/vosotras sonáis
+ellos/ellas/ustedes suenan

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+gönderirim
+gönderirsin
+gönderir
+göndeririz
+gönderirsiniz
+gönderirler
+
+=NEGATIVE=
+göndermem
+göndermezsin
+göndermez
+göndermeyiz
+göndermezsiniz
+göndermezler
+
+=AFFIRMATIVE INTERROGATIVE=
+gönderir miyim
+gönderir misin
+gönderir mi
+gönderir miyiz
+gönderir misiniz
+gönderirler mi
+
+=NEGATIVE INTERROGATIVE=
+göndermez miyim
+göndermez misin
+göndermez mi
+göndermez miyiz
+göndermez misiniz
+göndermezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+gönderiyorum
+gönderiyorsun
+gönderiyor
+gönderiyoruz
+gönderiyorsunuz
+gönderiyorlar
+
+=NEGATIVE=
+göndermiyorum
+göndermiyorsun
+göndermiyor
+göndermiyoruz
+göndermiyorsunuz
+göndermiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+gönderiyor muyum
+gönderiyor musun
+gönderiyor mu
+gönderiyor muyuz
+gönderiyor musunuz
+gönderiyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+göndermiyor muyum
+göndermiyor musun
+göndermiyor mu
+göndermiyor muyuz
+göndermiyor musunuz
+göndermiyorlar mı

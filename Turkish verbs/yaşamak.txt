@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yaşarım
+yaşarsın
+yaşar
+yaşarız
+yaşarsınız
+yaşarlar
+
+=NEGATIVE=
+yaşamam
+yaşamazsın
+yaşamaz
+yaşamayız
+yaşamazsınız
+yaşamazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yaşar mıyım
+yaşar mısın
+yaşar mı
+yaşar mıyız
+yaşar mısınız
+yaşarlar mı
+
+=NEGATIVE INTERROGATIVE=
+yaşamaz mıyım
+yaşamaz mısın
+yaşamaz mı
+yaşamaz mıyız
+yaşamaz mısınız
+yaşamazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yaşıyorum
+yaşıyorsun
+yaşıyor
+yaşıyoruz
+yaşıyorsunuz
+yaşıyorlar
+
+=NEGATIVE=
+yaşamıyorum
+yaşamıyorsun
+yaşamıyor
+yaşamıyoruz
+yaşamıyorsunuz
+yaşamıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yaşıyor muyum
+yaşıyor musun
+yaşıyor mu
+yaşıyor muyuz
+yaşıyor musunuz
+yaşıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yaşamıyor muyum
+yaşamıyor musun
+yaşamıyor mu
+yaşamıyor muyuz
+yaşamıyor musunuz
+yaşamıyorlar mı

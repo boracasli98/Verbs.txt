@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+çeviririm
+çevirirsin
+çevirir
+çeviririz
+çevirirsiniz
+çevirirler
+
+=NEGATIVE=
+çevirmem
+çevirmezsin
+çevirmez
+çevirmeyiz
+çevirmezsiniz
+çevirmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+çevirir miyim
+çevirir misin
+çevirir mi
+çevirir miyiz
+çevirir misiniz
+çevirirler mi
+
+=NEGATIVE INTERROGATIVE=
+çevirmez miyim
+çevirmez misin
+çevirmez mi
+çevirmez miyiz
+çevirmez misiniz
+çevirmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+çeviriyorum
+çeviriyorsun
+çeviriyor
+çeviriyoruz
+çeviriyorsunuz
+çeviriyorlar
+
+=NEGATIVE=
+çevirmiyorum
+çevirmiyorsun
+çevirmiyor
+çevirmiyoruz
+çevirmiyorsunuz
+çevirmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+çeviriyor muyum
+çeviriyor musun
+çeviriyor mu
+çeviriyor muyuz
+çeviriyor musunuz
+çeviriyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+çevirmiyor muyum
+çevirmiyor musun
+çevirmiyor mu
+çevirmiyor muyuz
+çevirmiyor musunuz
+çevirmiyorlar mı

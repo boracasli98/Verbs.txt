@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo viajo
+tú viajas
+él/ella/usted viaja
+nosotros/nosotras viajamos
+vosotros/vosotras viajáis
+ellos/ellas/ustedes viajan

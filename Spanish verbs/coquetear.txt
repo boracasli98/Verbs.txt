@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo coqueteo
+tú coqueteas
+él/ella/usted coquetea
+nosotros/nosotras coqueteamos
+vosotros/vosotras coqueteáis
+ellos/ellas/ustedes coquetean

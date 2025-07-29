@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+vazgeçilirim
+vazgeçilirsin
+vazgeçilir
+vazgeçiliriz
+vazgeçilirsiniz
+vazgeçilirler
+
+=NEGATIVE=
+vazgeçilmem
+vazgeçilmezsin
+vazgeçilmez
+vazgeçilmeyiz
+vazgeçilmezsiniz
+vazgeçilmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+vazgeçilir miyim
+vazgeçilir misin
+vazgeçilir mi
+vazgeçilir miyiz
+vazgeçilir misiniz
+vazgeçilirler mi
+
+=NEGATIVE INTERROGATIVE=
+vazgeçilmez miyim
+vazgeçilmez misin
+vazgeçilmez mi
+vazgeçilmez miyiz
+vazgeçilmez misiniz
+vazgeçilmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+vazgeçiliyorum
+vazgeçiliyorsun
+vazgeçiliyor
+vazgeçiliyoruz
+vazgeçiliyorsunuz
+vazgeçiliyorlar
+
+=NEGATIVE=
+vazgeçilmiyorum
+vazgeçilmiyorsun
+vazgeçilmiyor
+vazgeçilmiyoruz
+vazgeçilmiyorsunuz
+vazgeçilmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+vazgeçiliyor muyum
+vazgeçiliyor musun
+vazgeçiliyor mu
+vazgeçiliyor muyuz
+vazgeçiliyor musunuz
+vazgeçiliyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+vazgeçilmiyor muyum
+vazgeçilmiyor musun
+vazgeçilmiyor mu
+vazgeçilmiyor muyuz
+vazgeçilmiyor musunuz
+vazgeçilmiyorlar mı

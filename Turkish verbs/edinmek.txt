@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+edinirim
+edinirsin
+edinir
+ediniriz
+edinirsiniz
+edinirler
+
+=NEGATIVE=
+edinmem
+edinmezsin
+edinmez
+edinmeyiz
+edinmezsiniz
+edinmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+edinir miyim
+edinir misin
+edinir mi
+edinir miyiz
+edinir misiniz
+edinirler mi
+
+=NEGATIVE INTERROGATIVE=
+edinmez miyim
+edinmez misin
+edinmez mi
+edinmez miyiz
+edinmez misiniz
+edinmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+ediniyorum
+ediniyorsun
+ediniyor
+ediniyoruz
+ediniyorsunuz
+ediniyorlar
+
+=NEGATIVE=
+edinmiyorum
+edinmiyorsun
+edinmiyor
+edinmiyoruz
+edinmiyorsunuz
+edinmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+ediniyor muyum
+ediniyor musun
+ediniyor mu
+ediniyor muyuz
+ediniyor musunuz
+ediniyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+edinmiyor muyum
+edinmiyor musun
+edinmiyor mu
+edinmiyor muyuz
+edinmiyor musunuz
+edinmiyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+çalışırım
+çalışırsın
+çalışır
+çalışırız
+çalışırsınız
+çalışırlar
+
+=NEGATIVE=
+çalışmam
+çalışmazsın
+çalışmaz
+çalışmayız
+çalışmazsınız
+çalışmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+çalışır mıyım
+çalışır mısın
+çalışır mı
+çalışır mıyız
+çalışır mısınız
+çalışırlar mı
+
+=NEGATIVE INTERROGATIVE=
+çalışmaz mıyım
+çalışmaz mısın
+çalışmaz mı
+çalışmaz mıyız
+çalışmaz mısınız
+çalışmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+çalışıyorum
+çalışıyorsun
+çalışıyor
+çalışıyoruz
+çalışıyorsunuz
+çalışıyorlar
+
+=NEGATIVE=
+çalışmıyorum
+çalışmıyorsun
+çalışmıyor
+çalışmıyoruz
+çalışmıyorsunuz
+çalışmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+çalışıyor muyum
+çalışıyor musun
+çalışıyor mu
+çalışıyor muyuz
+çalışıyor musunuz
+çalışıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+çalışmıyor muyum
+çalışmıyor musun
+çalışmıyor mu
+çalışmıyor muyuz
+çalışmıyor musunuz
+çalışmıyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+başlarım
+başlarsın
+başlar
+başlarız
+başlarsınız
+başlarlar
+
+=NEGATIVE=
+başlamam
+başlamazsın
+başlamaz
+başlamayız
+başlamazsınız
+başlamazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+başlar mıyım
+başlar mısın
+başlar mı
+başlar mıyız
+başlar mısınız
+başlarlar mı
+
+=NEGATIVE INTERROGATIVE=
+başlamaz mıyım
+başlamaz mısın
+başlamaz mı
+başlamaz mıyız
+başlamaz mısınız
+başlamazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+başlıyorum
+başlıyorsun
+başlıyor
+başlıyoruz
+başlıyorsunuz
+başlıyorlar
+
+=NEGATIVE=
+başlamıyorum
+başlamıyorsun
+başlamıyor
+başlamıyoruz
+başlamıyorsunuz
+başlamıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+başlıyor muyum
+başlıyor musun
+başlıyor mu
+başlıyor muyuz
+başlıyor musunuz
+başlıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+başlamıyor muyum
+başlamıyor musun
+başlamıyor mu
+başlamıyor muyuz
+başlamıyor musunuz
+başlamıyorlar mı

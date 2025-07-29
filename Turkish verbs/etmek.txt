@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+ederim
+edersin
+eder
+ederiz
+edersiniz
+ederler
+
+=NEGATIVE=
+etmem
+etmezsin
+etmez
+etmeyiz
+etmezsiniz
+etmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+eder miyim
+eder misin
+eder mi
+eder miyiz
+eder misiniz
+ederler mi
+
+=NEGATIVE INTERROGATIVE=
+etmez miyim
+etmez misin
+etmez mi
+etmez miyiz
+etmez misiniz
+etmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+ediyorum
+ediyorsun
+ediyor
+ediyoruz
+ediyorsunuz
+ediyorlar
+
+=NEGATIVE=
+etmiyorum
+etmiyorsun
+etmiyor
+etmiyoruz
+etmiyorsunuz
+etmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+ediyor muyum
+ediyor musun
+ediyor mu
+ediyor muyuz
+ediyor musunuz
+ediyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+etmiyor muyum
+etmiyor musun
+etmiyor mu
+etmiyor muyuz
+etmiyor musunuz
+etmiyorlar mı

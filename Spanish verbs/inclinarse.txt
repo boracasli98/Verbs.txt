@@ -1,0 +1,15 @@
+==PRESENT SIMPLE TENSE==
+yo me inclino
+tú te inclinas
+él/ella/usted se inclina
+nosotros/nosotras nos inclinamos
+vosotros/vosotras os inclináis
+ellos/ellas/ustedes se inclinan
+
+==PAST SIMPLE TENSE==
+yo me incliné
+tú te inclinaste
+él/ella/usted se inclinó
+nosotros/nosotras nos inclinamos
+vosotros/vosotras os inclinasteis
+ellos/ellas/ustedes se inclinaron

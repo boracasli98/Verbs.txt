@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yardımcı olurum
+yardımcı olursun
+yardımcı olur
+yardımcı oluruz
+yardımcı olursunuz
+yardımcı olurlar
+
+=NEGATIVE=
+yardımcı olmam
+yardımcı olmazsın
+yardımcı olmaz
+yardımcı olmayız
+yardımcı olmazsınız
+yardımcı olmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yardımcı olur muyum
+yardımcı olur musun
+yardımcı olur mu
+yardımcı olur muyuz
+yardımcı olur musunuz
+yardımcı olurlar mı
+
+=NEGATIVE INTERROGATIVE=
+yardımcı olmaz muyum
+yardımcı olmaz musun
+yardımcı olmaz mı
+yardımcı olmaz muyuz
+yardımcı olmaz musunuz
+yardımcı olmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yardımcı oluyorum
+yardımcı oluyorsun
+yardımcı oluyor
+yardımcı oluyoruz
+yardımcı oluyorsunuz
+yardımcı oluyorlar
+
+=NEGATIVE=
+yardımcı olmuyorum
+yardımcı olmuyorsun
+yardımcı olmuyor
+yardımcı olmuyoruz
+yardımcı olmuyorsunuz
+yardımcı olmuyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yardımcı oluyor muyum
+yardımcı oluyor musun
+yardımcı oluyor mu
+yardımcı oluyor muyuz
+yardımcı oluyor musunuz
+yardımcı oluyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yardımcı olmuyor muyum
+yardımcı olmuyor musun
+yardımcı olmuyor mu
+yardımcı olmuyor muyuz
+yardımcı olmuyor musunuz
+yardımcı olmuyorlar mı

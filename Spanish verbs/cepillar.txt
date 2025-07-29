@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo cepillo
+tú cepillas
+él/ella/usted cepilla
+nosotros/nosotras cepillamos
+vosotros/vosotras cepilláis
+ellos/ellas/ustedes cepillan

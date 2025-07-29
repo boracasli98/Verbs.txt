@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+anlarım
+anlarsın
+anlar
+anlarız
+anlarsınız
+anlarlar
+
+=NEGATIVE=
+anlamam
+anlamazsın
+anlamaz
+anlamayız
+anlamazsınız
+anlamazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+anlar mıyım
+anlar mısın
+anlar mı
+anlar mıyız
+anlar mısınız
+anlarlar mı
+
+=NEGATIVE INTERROGATIVE=
+anlamaz mıyım
+anlamaz mısın
+anlamaz mı
+anlamaz mıyız
+anlamaz mısınız
+anlamazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+anlıyorum
+anlıyorsun
+anlıyor
+anlıyoruz
+anlıyorsunuz
+anlıyorlar
+
+=NEGATIVE=
+anlamıyorum
+anlamıyorsun
+anlamıyor
+anlamıyoruz
+anlamıyorsunuz
+anlamıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+anlıyor muyum
+anlıyor musun
+anlıyor mu
+anlıyor muyuz
+anlıyor musunuz
+anlıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+anlamıyor muyum
+anlamıyor musun
+anlamıyor mu
+anlamıyor muyuz
+anlamıyor musunuz
+anlamıyorlar mı

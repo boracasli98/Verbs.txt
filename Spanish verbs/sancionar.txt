@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo sanciono
+tú sancionas
+él/ella/usted sanciona
+nosotros/nosotras sancionamos
+vosotros/vosotras sancionáis
+ellos/ellas/ustedes sancionan

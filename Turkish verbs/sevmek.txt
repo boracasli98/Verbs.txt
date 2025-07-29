@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+severim
+seversin
+sever
+severiz
+seversiniz
+severler
+
+=NEGATIVE=
+sevmem
+sevmezsin
+sevmez
+sevmeyiz
+sevmezsiniz
+sevmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+sever miyim
+sever misin
+sever mi
+sever miyiz
+sever misiniz
+severler mi
+
+=NEGATIVE INTERROGATIVE=
+sevmez miyim
+sevmez misin
+sevmez mi
+sevmez miyiz
+sevmez misiniz
+sevmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+seviyorum
+seviyorsun
+seviyor
+seviyoruz
+seviyorsunuz
+seviyorlar
+
+=NEGATIVE=
+sevmiyorum
+sevmiyorsun
+sevmiyor
+sevmiyoruz
+sevmiyorsunuz
+sevmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+seviyor muyum
+seviyor musun
+seviyor mu
+seviyor muyuz
+seviyor musunuz
+seviyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+sevmiyor muyum
+sevmiyor musun
+sevmiyor mu
+sevmiyor muyuz
+sevmiyor musunuz
+sevmiyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+yollarım
+yollarsın
+yollar
+yollarız
+yollarsınız
+yollarlar
+
+=NEGATIVE=
+yollamam
+yollamazsın
+yollamaz
+yollamayız
+yollamazsınız
+yollamazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yollar mıyım
+yollar mısın
+yollar mı
+yollar mıyız
+yollar mısınız
+yollarlar mı
+
+=NEGATIVE INTERROGATIVE=
+yollamaz mıyım
+yollamaz mısın
+yollamaz mı
+yollamaz mıyız
+yollamaz mısınız
+yollamazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+yolluyorum
+yolluyorsun
+yolluyor
+yolluyoruz
+yolluyorsunuz
+yolluyorlar
+
+=NEGATIVE=
+yollamıyorum
+yollamıyorsun
+yollamıyor
+yollamıyoruz
+yollamıyorsunuz
+yollamıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+yolluyor muyum
+yolluyor musun
+yolluyor mu
+yolluyor muyuz
+yolluyor musunuz
+yolluyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+yollamıyor muyum
+yollamıyor musun
+yollamıyor mu
+yollamıyor muyuz
+yollamıyor musunuz
+yollamıyorlar mı

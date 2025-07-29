@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+dururum
+durursun
+durur
+dururuz
+durursunuz
+dururlar
+
+=NEGATIVE=
+durmam
+durmazsın
+durmaz
+durmayız
+durmazsınız
+durmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+durur muyum
+durur musun
+durur mu
+durur muyuz
+durur musunuz
+dururlar mı
+
+=NEGATIVE INTERROGATIVE=
+durmaz muyum
+durmaz musun
+durmaz mı
+durmaz muyuz
+durmaz musunuz
+durmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+duruyorum
+duruyorsun
+duruyor
+duruyoruz
+duruyorsunuz
+duruyorlar
+
+=NEGATIVE=
+durmuyorum
+durmuyorsun
+durmuyor
+durmuyoruz
+durmuyorsunuz
+durmuyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+duruyor muyum
+duruyor musun
+duruyor mu
+duruyor muyuz
+duruyor musunuz
+duruyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+durmuyor muyum
+durmuyor musun
+durmuyor mu
+durmuyor muyuz
+durmuyor musunuz
+durmuyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+desteklenirim
+desteklenirsin
+desteklenir
+destekleniriz
+desteklenirsiniz
+desteklenirler
+
+=NEGATIVE=
+desteklenmem
+desteklenmezsin
+desteklenmez
+desteklenmeyiz
+desteklenmezsiniz
+desteklenmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+desteklenir miyim
+desteklenir misin
+desteklenir mi
+desteklenir miyiz
+desteklenir misiniz
+desteklenirler mi
+
+=NEGATIVE INTERROGATIVE=
+desteklenmez miyim
+desteklenmez misin
+desteklenmez mi
+desteklenmez miyiz
+desteklenmez misiniz
+desteklenmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+destekleniyorum
+destekleniyorsun
+destekleniyor
+destekleniyoruz
+destekleniyorsunuz
+destekleniyorlar
+
+=NEGATIVE=
+desteklenmiyorum
+desteklenmiyorsun
+desteklenmiyor
+desteklenmiyoruz
+desteklenmiyorsunuz
+desteklenmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+destekleniyor muyum
+destekleniyor musun
+destekleniyor mu
+destekleniyor muyuz
+destekleniyor musunuz
+destekleniyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+desteklenmiyor muyum
+desteklenmiyor musun
+desteklenmiyor mu
+desteklenmiyor muyuz
+desteklenmiyor musunuz
+desteklenmiyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+bağlanırım
+bağlanırsın
+bağlanır
+bağlanırız
+bağlanırsınız
+bağlanırlar
+
+=NEGATIVE=
+bağlanmam
+bağlanmazsın
+bağlanmaz
+bağlanmayız
+bağlanmazsınız
+bağlanmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+bağlanır mıyım
+bağlanır mısın
+bağlanır mı
+bağlanır mıyız
+bağlanır mısınız
+bağlanırlar mı
+
+=NEGATIVE INTERROGATIVE=
+bağlanmaz mıyım
+bağlanmaz mısın
+bağlanmaz mı
+bağlanmaz mıyız
+bağlanmaz mısınız
+bağlanmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+bağlanıyorum
+bağlanıyorsun
+bağlanıyor
+bağlanıyoruz
+bağlanıyorsunuz
+bağlanıyorlar
+
+=NEGATIVE=
+bağlanmıyorum
+bağlanmıyorsun
+bağlanmıyor
+bağlanmıyoruz
+bağlanmıyorsunuz
+bağlanmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+bağlanıyor muyum
+bağlanıyor musun
+bağlanıyor mu
+bağlanıyor muyuz
+bağlanıyor musunuz
+bağlanıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+bağlanmıyor muyum
+bağlanmıyor musun
+bağlanmıyor mu
+bağlanmıyor muyuz
+bağlanmıyor musunuz
+bağlanmıyorlar mı

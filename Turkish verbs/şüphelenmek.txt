@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+şüphelenirim
+şüphelenirsin
+şüphelenir
+şüpheleniriz
+şüphelenirsiniz
+şüphelenirler
+
+=NEGATIVE=
+şüphelenmem
+şüphelenmezsin
+şüphelenmez
+şüphelenmeyiz
+şüphelenmezsiniz
+şüphelenmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+şüphelenir miyim
+şüphelenir misin
+şüphelenir mi
+şüphelenir miyiz
+şüphelenir misiniz
+şüphelenirler mi
+
+=NEGATIVE INTERROGATIVE=
+şüphelenmez miyim
+şüphelenmez misin
+şüphelenmez mi
+şüphelenmez miyiz
+şüphelenmez misiniz
+şüphelenmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+şüpheleniyorum
+şüpheleniyorsun
+şüpheleniyor
+şüpheleniyoruz
+şüpheleniyorsunuz
+şüpheleniyorlar
+
+=NEGATIVE=
+şüphelenmiyorum
+şüphelenmiyorsun
+şüphelenmiyor
+şüphelenmiyoruz
+şüphelenmiyorsunuz
+şüphelenmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+şüpheleniyor muyum
+şüpheleniyor musun
+şüpheleniyor mu
+şüpheleniyor muyuz
+şüpheleniyor musunuz
+şüpheleniyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+şüphelenmiyor muyum
+şüphelenmiyor musun
+şüphelenmiyor mu
+şüphelenmiyor muyuz
+şüphelenmiyor musunuz
+şüphelenmiyorlar mı

@@ -1,0 +1,7 @@
+==PRESENT TENSE==
+eu seleciono
+tu selecionas
+ele/ela/você seleciona
+nós selecionamos
+vós selecionais
+eles/elas/vocês selecionam

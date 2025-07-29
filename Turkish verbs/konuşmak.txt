@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+konuşurum
+konuşursun
+konuşur
+konuşuruz
+konuşursunuz
+konuşurlar
+
+=NEGATIVE=
+konuşmam
+konuşmazsın
+konuşmaz
+konuşmayız
+konuşmazsınız
+konuşmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+konuşur muyum
+konuşur musun
+konuşur mu
+konuşur muyuz
+konuşur musunuz
+konuşurlar mı
+
+=NEGATIVE INTERROGATIVE=
+konuşmaz mıyım
+konuşmaz mısın
+konuşmaz mı
+konuşmaz mıyız
+konuşmaz mısınız
+konuşmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+konuşuyorum
+konuşuyorsun
+konuşuyor
+konuşuyoruz
+konuşuyorsunuz
+konuşuyorlar
+
+=NEGATIVE=
+konuşmuyorum
+konuşmuyorsun
+konuşmuyor
+konuşmuyoruz
+konuşmuyorsunuz
+konuşmuyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+konuşuyor muyum
+konuşuyor musun
+konuşuyor mu
+konuşuyor muyuz
+konuşuyor musunuz
+konuşuyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+konuşmuyor muyum
+konuşmuyor musun
+konuşmuyor mu
+konuşmuyor muyuz
+konuşmuyor musunuz
+konuşmuyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+kullanırım
+kullanırsın
+kullanır
+kullanırız
+kullanırsınız
+kullanırlar
+
+=NEGATIVE=
+kullanmam
+kullanmazsın
+kullanmaz
+kullanmayız
+kullanmazsınız
+kullanmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+kullanır mıyım
+kullanır mısın
+kullanır mı
+kullanır mıyız
+kullanır mısınız
+kullanırlar mı
+
+=NEGATIVE INTERROGATIVE=
+kullanmaz mıyım
+kullanmaz mısın
+kullanmaz mı
+kullanmaz mıyız
+kullanmaz mısınız
+kullanmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+kullanıyorum
+kullanıyorsun
+kullanıyor
+kullanıyoruz
+kullanıyorsunuz
+kullanıyorlar
+
+=NEGATIVE=
+kullanmıyorum
+kullanmıyorsun
+kullanmıyor
+kullanmıyoruz
+kullanmıyorsunuz
+kullanmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+kullanıyor muyum
+kullanıyor musun
+kullanıyor mu
+kullanıyor muyuz
+kullanıyor musunuz
+kullanıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+kullanmıyor muyum
+kullanmıyor musun
+kullanmıyor mu
+kullanmıyor muyuz
+kullanmıyor musunuz
+kullanmıyorlar mı

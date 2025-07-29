@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+iyileştiririm
+iyileştirirsin
+iyileştirir
+iyileştiririz
+iyileştirirsiniz
+iyileştirirler
+
+=NEGATIVE=
+iyileştirmem
+iyileştirmezsin
+iyileştirmez
+iyileştirmeyiz
+iyileştirmezsiniz
+iyileştirmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+iyileştirir miyim
+iyileştirir misin
+iyileştirir mi
+iyileştirir miyiz
+iyileştirir misiniz
+iyileştirirler mi
+
+=NEGATIVE INTERROGATIVE=
+iyileştirmez miyim
+iyileştirmez misin
+iyileştirmez mi
+iyileştirmez miyiz
+iyileştirmez misiniz
+iyileştirmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+iyileştiriyorum
+iyileştiriyorsun
+iyileştiriyor
+iyileştiriyoruz
+iyileştiriyorsunuz
+iyileştiriyorlar
+
+=NEGATIVE=
+iyileştirmiyorum
+iyileştirmiyorsun
+iyileştirmiyor
+iyileştirmiyoruz
+iyileştirmiyorsunuz
+iyileştirmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+iyileştiriyor muyum
+iyileştiriyor musun
+iyileştiriyor mu
+iyileştiriyor muyuz
+iyileştiriyor musunuz
+iyileştiriyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+iyileştirmiyor muyum
+iyileştirmiyor musun
+iyileştirmiyor mu
+iyileştirmiyor muyuz
+iyileştirmiyor musunuz
+iyileştirmiyorlar mı

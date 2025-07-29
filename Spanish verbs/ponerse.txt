@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo me pongo
+tú te pones
+él/ella/usted se pone
+nosotros/nosotras nos ponemos
+vosotros/vosotras os ponéis
+ellos/ellas/ustedes se ponen

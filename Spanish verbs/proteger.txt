@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo protejo
+tú proteges
+él/ella/usted protege
+nosotros/nosotras protegemos
+vosotros/vosotras protegéis
+ellos/ellas/ustedes protegen

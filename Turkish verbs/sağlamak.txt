@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+sağlarım
+sağlarsın
+sağlar
+sağlarız
+sağlarsınız
+sağlarlar
+
+=NEGATIVE=
+sağlamam
+sağlamazsın
+sağlamaz
+sağlamayız
+sağlamazsınız
+sağlamazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+sağlar mıyım
+sağlar mısın
+sağlar mı
+sağlar mıyız
+sağlar mısınız
+sağlarlar mı
+
+=NEGATIVE INTERROGATIVE=
+sağlamaz mıyım
+sağlamaz mısın
+sağlamaz mı
+sağlamaz mıyız
+sağlamaz mısınız
+sağlamazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+sağlıyorum
+sağlıyorsun
+sağlıyor
+sağlıyoruz
+sağlıyorsunuz
+sağlıyorlar
+
+=NEGATIVE=
+sağlamıyorum
+sağlamıyorsun
+sağlamıyor
+sağlamıyoruz
+sağlamıyorsunuz
+sağlamıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+sağlıyor muyum
+sağlıyor musun
+sağlıyor mu
+sağlıyor muyuz
+sağlıyor musunuz
+sağlıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+sağlamıyor muyum
+sağlamıyor musun
+sağlamıyor mu
+sağlamıyor muyuz
+sağlamıyor musunuz
+sağlamıyorlar mı

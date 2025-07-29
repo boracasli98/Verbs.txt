@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+çıkarırım
+çıkarırsın
+çıkarır
+çıkarırız
+çıkarırsınız
+çıkarırlar
+
+=NEGATIVE=
+çıkarmam
+çıkarmazsın
+çıkarmaz
+çıkarmayız
+çıkarmazsınız
+çıkarmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+çıkarır mıyım
+çıkarır mısın
+çıkarır mı
+çıkarır mıyız
+çıkarır mısınız
+çıkarırlar mı
+
+=NEGATIVE INTERROGATIVE=
+çıkarmaz mıyım
+çıkarmaz mısın
+çıkarmaz mı
+çıkarmaz mıyız
+çıkarmaz mısınız
+çıkarmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+çıkarıyorum
+çıkarıyorsun
+çıkarıyor
+çıkarıyoruz
+çıkarıyorsunuz
+çıkarıyorlar
+
+=NEGATIVE=
+çıkarmıyorum
+çıkarmıyorsun
+çıkarmıyor
+çıkarmıyoruz
+çıkarmıyorsunuz
+çıkarmıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+çıkarıyor muyum
+çıkarıyor musun
+çıkarıyor mu
+çıkarıyor muyuz
+çıkarıyor musunuz
+çıkarıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+çıkarmıyor muyum
+çıkarmıyor musun
+çıkarmıyor mu
+çıkarmıyor muyuz
+çıkarmıyor musunuz
+çıkarmıyorlar mı

@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+görünürüm
+görünürsün
+görünür
+görünürüz
+görünürsünüz
+görünürler
+
+=NEGATIVE=
+görünmem
+görünmezsin
+görünmez
+görünmeyiz
+görünmezsiniz
+görünmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+görünür müyüm
+görünür müsün
+görünür mü
+görünür müyüz
+görünür müsünüz
+görünürler mi
+
+=NEGATIVE INTERROGATIVE=
+görünmez miyim
+görünmez misin
+görünmez mi
+görünmez miyiz
+görünmez misiniz
+görünmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+görünüyorum
+görünüyorsun
+görünüyor
+görünüyoruz
+görünüyorsunuz
+görünüyorlar
+
+=NEGATIVE=
+görünmüyorum
+görünmüyorsun
+görünmüyor
+görünmüyoruz
+görünmüyorsunuz
+görünmüyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+görünüyor muyum
+görünüyor musun
+görünüyor mu
+görünüyor muyuz
+görünüyor musunuz
+görünüyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+görünmüyor muyum
+görünmüyor musun
+görünmüyor mu
+görünmüyor muyuz
+görünmüyor musunuz
+görünmüyorlar mı

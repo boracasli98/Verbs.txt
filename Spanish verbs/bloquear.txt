@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo bloqueo
+tú bloqueas
+él/ella/usted bloquea
+nosotros/nosotras bloqueamos
+vosotros/vosotras bloqueáis
+ellos/ellas/ustedes bloquean

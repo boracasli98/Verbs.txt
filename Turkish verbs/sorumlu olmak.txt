@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+sorumlu olurum
+sorumlu olursun
+sorumlu olur
+sorumlu oluruz
+sorumlu olursunuz
+sorumlu olurlar
+
+=NEGATIVE=
+sorumlu olmam
+sorumlu olmazsın
+sorumlu olmaz
+sorumlu olmayız
+sorumlu olmazsınız
+sorumlu olmazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+sorumlu olur muyum
+sorumlu olur musun
+sorumlu olur mu
+sorumlu olur muyuz
+sorumlu olur musunuz
+sorumlu olurlar mı
+
+=NEGATIVE INTERROGATIVE=
+sorumlu olmaz muyum
+sorumlu olmaz musun
+sorumlu olmaz mı
+sorumlu olmaz muyuz
+sorumlu olmaz musunuz
+sorumlu olmazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+sorumlu oluyorum
+sorumlu oluyorsun
+sorumlu oluyor
+sorumlu oluyoruz
+sorumlu oluyorsunuz
+sorumlu oluyorlar
+
+=NEGATIVE=
+sorumlu olmuyorum
+sorumlu olmuyorsun
+sorumlu olmuyor
+sorumlu olmuyoruz
+sorumlu olmuyorsunuz
+sorumlu olmuyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+sorumlu oluyor muyum
+sorumlu oluyor musun
+sorumlu oluyor mu
+sorumlu oluyor muyuz
+sorumlu oluyor musunuz
+sorumlu oluyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+sorumlu olmuyor muyum
+sorumlu olmuyor musun
+sorumlu olmuyor mu
+sorumlu olmuyor muyuz
+sorumlu olmuyor musunuz
+sorumlu olmuyorlar mı

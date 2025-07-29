@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+solurum
+solursun
+solur
+soluruz
+solursunuz
+solurlar
+
+=NEGATIVE=
+solumam
+solumazsın
+solumaz
+solumayız
+solumazsınız
+solumazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+solur muyum
+solur musun
+solur mu
+solur muyuz
+solur musunuz
+solurlar mı
+
+=NEGATIVE INTERROGATIVE=
+solumaz mıyım
+solumaz mısın
+solumaz mı
+solumaz mıyız
+solumaz mısınız
+solumazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+soluyorum
+soluyorsun
+soluyor
+soluyoruz
+soluyorsunuz
+soluyorlar
+
+=NEGATIVE=
+solumuyorum
+solumuyorsun
+solumuyor
+solumuyoruz
+solumuyorsunuz
+solumuyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+soluyor muyum
+soluyor musun
+soluyor mu
+soluyor muyuz
+soluyor musunuz
+soluyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+solumuyor muyum
+solumuyor musun
+solumuyor mu
+solumuyor muyuz
+solumuyor musunuz
+solumuyorlar mı

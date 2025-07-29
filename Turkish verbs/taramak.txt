@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+tararım
+tararsın
+tarar
+tararız
+tararsınız
+tararlar
+
+=NEGATIVE=
+taramam
+taramazsın
+taramaz
+taramayız
+taramazsınız
+taramazlar
+
+=AFFIRMATIVE INTERROGATIVE=
+tarar mıyım
+tarar mısın
+tarar mı
+tarar mıyız
+tarar mısınız
+tararlar mı
+
+=NEGATIVE INTERROGATIVE=
+taramaz mıyım
+taramaz mısın
+taramaz mı
+taramaz mıyız
+taramaz mısınız
+taramazlar mı
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+tarıyorum
+tarıyorsun
+tarıyor
+tarıyoruz
+tarıyorsunuz
+tarıyorlar
+
+=NEGATIVE=
+taramıyorum
+taramıyorsun
+taramıyor
+taramıyoruz
+taramıyorsunuz
+taramıyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+tarıyor muyum
+tarıyor musun
+tarıyor mu
+tarıyor muyuz
+tarıyor musunuz
+tarıyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+taramıyor muyum
+taramıyor musun
+taramıyor mu
+taramıyor muyuz
+taramıyor musunuz
+taramıyorlar mı

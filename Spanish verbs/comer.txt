@@ -1,0 +1,15 @@
+==PRESENT SIMPLE TENSE==
+yo como
+tú comes
+él/ella/usted come
+nosotros/nosotras comemos
+vosotros/vosotras coméis
+ellos/ellas/ustedes comen
+
+==PAST SIMPLE TENSE==
+yo comé
+tú comiste
+él/ella/usted comió
+nosotros/nosotras comimos
+vosotros/vosotras comisteis
+ellos/ellas/ustedes comieron

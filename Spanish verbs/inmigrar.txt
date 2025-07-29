@@ -1,0 +1,7 @@
+==PRESENT SIMPLE TENSE==
+yo inmigro
+tú inmigras
+él/ella/usted inmigra
+nosotros/nosotras inmigramos
+vosotros/vosotras inmigráis
+ellos/ellas/ustedes inmigran

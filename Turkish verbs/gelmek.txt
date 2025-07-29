@@ -1,0 +1,65 @@
+==PRESENT SIMPLE TENSE==
+=AFFIRMATIVE=
+gelirim
+gelirsin
+gelir
+geliriz
+gelirsiniz
+gelirler
+
+=NEGATIVE=
+gelmem
+gelmezsin
+gelmez
+gelmeyiz
+gelmezsiniz
+gelmezler
+
+=AFFIRMATIVE INTERROGATIVE=
+gelir miyim
+gelir misin
+gelir mi
+gelir miyiz
+gelir misiniz
+gelirler mi
+
+=NEGATIVE INTERROGATIVE=
+gelmez miyim
+gelmez misin
+gelmez mi
+gelmez miyiz
+gelmez misiniz
+gelmezler mi
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+geliyorum
+geliyorsun
+geliyor
+geliyoruz
+geliyorsunuz
+geliyorlar
+
+=NEGATIVE=
+gelmiyorum
+gelmiyorsun
+gelmiyor
+gelmiyoruz
+gelmiyorsunuz
+gelmiyorlar
+
+=AFFIRMATIVE INTERROGATIVE=
+geliyor muyum
+geliyor musun
+geliyor mu
+geliyor muyuz
+geliyor musunuz
+geliyorlar mı
+
+=NEGATIVE INTERROGATIVE=
+gelmiyor muyum
+gelmiyor musun
+gelmiyor mu
+gelmiyor muyuz
+gelmiyor musunuz
+gelmiyorlar mı
