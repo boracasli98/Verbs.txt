@@ -1,0 +1,20 @@
+==PRESENT TENSE==
+=AFFIRMATIVE=
+吠える(ほえる) / 吠えます(ほえます)
+
+=NEGATIVE=
+吠えない(ほえない) / 吠えません(ほえません)
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+吠えている(ほえている) / 吠えています(ほえています)
+
+=NEGATIVE=
+吠えていない(ほえていない) / 吠えていません(ほえていません)
+
+==PAST TENSE==
+=AFFIRMATIVE=
+吠えた(ほえた) / 吠えました(ほえました)
+
+=NEGATIVE=
+吠えなかった(ほえなかった) / 吠えませんでした(ほえませんでした)

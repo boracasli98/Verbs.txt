@@ -1,0 +1,7 @@
+==PRESENT SIMPLE==
+io parlo
+tu parli
+lui/lei parla
+noi parliamo
+voi parlate
+loro parlano

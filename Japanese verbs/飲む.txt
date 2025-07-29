@@ -1,0 +1,20 @@
+==PRESENT TENSE==
+=AFFIRMATIVE=
+飲む(のむ) / 飲みます(のみます)
+
+=NEGATIVE=
+飲まない(のまない) / 飲みません(のみません)
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+飲んでいる(のんでいる) / 飲んでいます(のんでいます)
+
+=NEGATIVE=
+飲んでいない(のんでいない) / 飲んでいません(のんでいません)
+
+==PAST TENSE==
+=AFFIRMATIVE=
+飲んだ(のんだ) / 飲みました(のみました)
+
+=NEGATIVE=
+飲まなかった(のまなかった) / 飲みませんでした(のみませんでした)

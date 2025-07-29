@@ -1,0 +1,7 @@
+==PRESENT SIMPLE==
+io mordicchio
+tu mordicchi
+lui/lei mordicchia
+noi mordicchiamo
+voi mordicchiate
+loro mordicchiano

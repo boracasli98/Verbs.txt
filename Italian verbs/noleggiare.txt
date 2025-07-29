@@ -1,0 +1,7 @@
+==PRESENT SIMPLE==
+io noleggio
+tu noleggi
+lui/lei noleggia
+noi noleggiamo
+voi noleggiate
+loro noleggiano

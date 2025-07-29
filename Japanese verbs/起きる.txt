@@ -1,0 +1,20 @@
+==PRESENT TENSE==
+=AFFIRMATIVE=
+起きる(おきる) / 起きます(おきます)
+
+=NEGATIVE=
+起きない(おきない) / 起きません(おきません)
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+起きている(おきている) / 起きています(おきています)
+
+=NEGATIVE=
+起きていない(おきていない) / 起きていません(おきていません)
+
+==PAST TENSE==
+=AFFIRMATIVE=
+起きた(おきた) / 起きました(おきました)
+
+=NEGATIVE=
+起きなかった(おきなかった) / 起きませんでした(おきませんでした)

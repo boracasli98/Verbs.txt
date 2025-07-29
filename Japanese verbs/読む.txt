@@ -1,0 +1,20 @@
+==PRESENT TENSE==
+=AFFIRMATIVE=
+読む(よむ) / 読みます(よみます)
+
+=NEGATIVE=
+読まない(よまない) / 読みません(よみません)
+
+==PRESENT CONTINUOUS TENSE==
+=AFFIRMATIVE=
+読んでいる(よんでいる) / 読んでいます(よんでいます)
+
+=NEGATIVE=
+読んでいない(よんでいない) / 読んでいません(よんでいません)
+
+==PAST TENSE==
+=AFFIRMATIVE=
+読んだ(よんだ) / 読みました(よみました)
+
+=NEGATIVE=
+読まなかった(よまなかった) / 読みませんでした(よみませんでした)
